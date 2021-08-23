@@ -1,0 +1,4568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.meatntaters.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.meatntaters.ca/collections/ready-made-foods.atom"/>
+  <title>Meat n&apos; Taters Delivery</title>
+  <updated>2020-12-02T11:59:52-05:00</updated>
+  <author>
+    <name>Meat n&apos; Taters Delivery</name>
+  </author>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4728331632691</id>
+    <published>2020-12-02T11:59:52-05:00</published>
+    <updated>2020-12-02T11:59:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/spaghetti"/>
+    <title>Spaghetti</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Rigatoni.jpg?v=1606930044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            5.99 - 80.99
+            <a href="https://www.meatntaters.ca/products/spaghetti">(77 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spaghetti - From Our Pasta Partners <span data-mce-fragment="1">- For Special Orders, please leave a comment when ordering. (Without Egg and Vegan are available)</span></p>
+<p>We also do Ready Made Spaghetti with a variety of sauces. Rough Sizes Below</p>
+<p>Single - 375g | Small - 800g | medium 1250g | Family 1850g | Large Family 2050g...</p>
+<p><strong>Our pasta is made fresh every day from the finest ingredients imported from Italy.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meat</s:tag>
+    <s:tag>pasta</s:tag>
+    <s:tag>pastas</s:tag>
+    <s:tag>Puree</s:tag>
+    <s:tag>sauce</s:tag>
+    <s:tag>sauces</s:tag>
+    <s:tag>spaghetti</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Single / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Single / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Single / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Single / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Single / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Single / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Single / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Small / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Small / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Small / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Small / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Small / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Small / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Small / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Medium / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Medium / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Medium / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Medium / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Medium / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Medium / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Medium / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Family / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Family / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Family / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Family / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Family / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Family / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Family / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Family / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Family / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Family / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Family / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Family / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Family / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Family / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Container / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Container / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Container / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Container / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Container / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Container / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Container / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Container / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Container / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Container / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Container / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Container / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Container / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Large Container / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Special Size / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Special Size / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Special Size / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Special Size / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Special Size / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Special Size / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Special Size / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Special Size / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Special Size / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Special Size / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Special Size / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Special Size / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Special Size / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / Special Size / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / X-Large Container / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / X-Large Container / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / X-Large Container / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / X-Large Container / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / X-Large Container / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / X-Large Container / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / X-Large Container / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / X-Large Container / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / X-Large Container / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / X-Large Container / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / X-Large Container / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / X-Large Container / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / X-Large Container / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728331632691</id>
+      <title>Spaghetti / X-Large Container / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4728330321971</id>
+    <published>2020-12-02T11:53:16-05:00</published>
+    <updated>2020-12-02T11:53:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/rigatoni"/>
+    <title>Rigatoni</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/easy-sausage-rigatoni-recipe-2-500x500.jpg?v=1606928179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            5.99 - 80.99
+            <a href="https://www.meatntaters.ca/products/rigatoni">(77 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rigatoni - From Our Pasta Partners <span data-mce-fragment="1">- For Special Orders, please leave a comment when ordering. (Without Egg and Vegan are available)</span></p>
+<p>We also do Ready Made Rigatoni with a variety of sauces. Rough Sizes Below</p>
+<p>Single - 375g | Small - 800g | medium 1250g | Family 1850g | Large Family 2050g...</p>
+<p><strong>Our pasta is made fresh every day from the finest ingredients imported from Italy.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meat</s:tag>
+    <s:tag>pasta</s:tag>
+    <s:tag>pastas</s:tag>
+    <s:tag>Puree</s:tag>
+    <s:tag>Rigatoni</s:tag>
+    <s:tag>sauce</s:tag>
+    <s:tag>sauces</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Single / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Single / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Single / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Single / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Single / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Single / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Single / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Small / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Small / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Small / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Small / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Small / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Small / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Small / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Medium / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Medium / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Medium / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Medium / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Medium / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Medium / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Medium / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Family / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Family / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Family / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Family / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Family / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Family / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Family / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Family / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Family / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Family / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Family / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Family / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Family / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Family / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Container / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Container / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Container / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Container / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Container / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Container / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Container / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Container / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Container / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Container / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Container / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Container / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Container / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Large Container / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Special Size / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Special Size / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Special Size / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Special Size / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Special Size / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Special Size / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Special Size / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Special Size / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Special Size / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Special Size / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Special Size / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Special Size / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Special Size / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / Special Size / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / X-Large Container / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / X-Large Container / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / X-Large Container / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / X-Large Container / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / X-Large Container / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / X-Large Container / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / X-Large Container / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / X-Large Container / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / X-Large Container / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / X-Large Container / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / X-Large Container / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / X-Large Container / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / X-Large Container / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728330321971</id>
+      <title>Rigatoni / X-Large Container / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4728320458803</id>
+    <published>2020-12-02T10:45:45-05:00</published>
+    <updated>2020-12-02T10:45:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/copy-of-agnolotti"/>
+    <title>Penne</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Million-Dollar-Baked-Penne-9.jpg?v=1606925504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            5.99 - 80.99
+            <a href="https://www.meatntaters.ca/products/copy-of-agnolotti">(77 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Penne - From Our Pasta Partners <span data-mce-fragment="1">- For Special Orders, please leave a comment when ordering. (Without Egg and Vegan are available)</span></p>
+<p>We also do Ready Made Penne with a variety of sauces. Rough Sizes Below</p>
+<p>Single - 375g | Small - 800g | medium 1250g | Family 1850g | Large Family 2050g...</p>
+<p><strong>Our pasta is made fresh every day from the finest ingredients imported from Italy.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Agnolotti</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>pasta</s:tag>
+    <s:tag>pastas</s:tag>
+    <s:tag>Puree</s:tag>
+    <s:tag>sauce</s:tag>
+    <s:tag>sauces</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Single / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Single / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Single / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Single / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Single / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Single / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Single / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Small / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Small / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Small / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Small / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Small / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Small / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Small / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Medium / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Medium / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Medium / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Medium / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Medium / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Medium / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Medium / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Family / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Family / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Family / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Family / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Family / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Family / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Family / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Family / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Family / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Family / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Family / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Family / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Family / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Family / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Container / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Container / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Container / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Container / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Container / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Container / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Container / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Container / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Container / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Container / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Container / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Container / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Container / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Large Container / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Special Size / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Special Size / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Special Size / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Special Size / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Special Size / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Special Size / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Special Size / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Special Size / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Special Size / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Special Size / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Special Size / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Special Size / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Special Size / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / Special Size / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / X-Large Container / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / X-Large Container / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / X-Large Container / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / X-Large Container / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / X-Large Container / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / X-Large Container / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / X-Large Container / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / X-Large Container / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / X-Large Container / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / X-Large Container / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / X-Large Container / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / X-Large Container / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / X-Large Container / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728320458803</id>
+      <title>Penne / X-Large Container / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4728027185203</id>
+    <published>2020-12-01T16:21:26-05:00</published>
+    <updated>2020-12-01T16:21:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/ravioli"/>
+    <title>Ravioli</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Ravioli_1_e52f0714-afe9-42d0-89f6-e7cd0fcf77c4.jpg?v=1606858570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            7.49 - 99.99
+            <a href="https://www.meatntaters.ca/products/ravioli">(80 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cheese. Meat and Chicken Ravioli - From Our Pasta Partners - For Special Orders, please leave a comment when ordering. (Without Egg and Vegan are avaliable)</p>
+<p>We also do Ready Made<span> </span><span data-mce-fragment="1">Ravioli </span>with a variety of sauces. Rough Sizes Below</p>
+<p>Single - 375g | Small - 800g | medium 1250g | Family 1850g | Large Family 2050g...</p>
+<p><strong>Our pasta is made fresh every day from the finest ingredients imported from Italy.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheese Ravioli</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>pasta</s:tag>
+    <s:tag>pastas</s:tag>
+    <s:tag>Puree</s:tag>
+    <s:tag>Ravioli</s:tag>
+    <s:tag>sauce</s:tag>
+    <s:tag>sauces</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / 500g / Pack</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Single / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Single / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Single / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Single / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Single / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Single / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Single / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Small / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Small / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Small / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Small / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Small / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Small / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Small / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Medium / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Medium / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Medium / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Medium / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Medium / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Medium / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Medium / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Family / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Family / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Family / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Family / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Family / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Family / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Family / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Family / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Family / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Family / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Family / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Family / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Family / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Family / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Container / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Container / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Container / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Container / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Container / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Container / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Container / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Container / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Container / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Container / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Container / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Container / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Container / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Large Container / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Special Size / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Special Size / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Special Size / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Special Size / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Special Size / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Special Size / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Special Size / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Special Size / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Special Size / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Special Size / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Special Size / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Special Size / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Special Size / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / Special Size / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / X-Large Container / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / X-Large Container / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / X-Large Container / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / X-Large Container / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / X-Large Container / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / X-Large Container / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / X-Large Container / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / X-Large Container / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / X-Large Container / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / X-Large Container / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / X-Large Container / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / X-Large Container / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / X-Large Container / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Cheese Ravioli / X-Large Container / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Meat Tortellini / 500g / Pack</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728027185203</id>
+      <title>Chicken Tortellini / 500g / Pack</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4728023842867</id>
+    <published>2020-12-01T16:07:57-05:00</published>
+    <updated>2020-12-01T16:07:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/tortellini-new"/>
+    <title>Tortellini</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Tortellini_1_0b883a62-9e1b-442a-99b2-c84586411795.jpg?v=1606857265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            7.49 - 99.99
+            <a href="https://www.meatntaters.ca/products/tortellini-new">(80 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tortellini Cheese, Meat or Chicken - From Our Pasta Partners <span data-mce-fragment="1">- For Special Orders, please leave a comment when ordering. (Without Egg and Vegan are available)</span></p>
+<p>We also do Ready Made Tortellini with a variety of sauces. Rough Sizes Below</p>
+<p>Single - 375g | Small - 800g | medium 1250g | Family 1850g | Large Family 2050g...</p>
+<p><strong>Our pasta is made fresh every day from the finest ingredients imported from Italy.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meat</s:tag>
+    <s:tag>pasta</s:tag>
+    <s:tag>pastas</s:tag>
+    <s:tag>Puree</s:tag>
+    <s:tag>sauce</s:tag>
+    <s:tag>sauces</s:tag>
+    <s:tag>Tortellini</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / 500g / Pack</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Single / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Single / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Single / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Single / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Single / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Single / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Single / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Small / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Small / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Small / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Small / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Small / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Small / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Small / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Medium / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Medium / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Medium / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Medium / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Medium / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Medium / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Medium / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Family / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Family / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Family / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Family / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Family / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Family / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Family / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Family / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Family / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Family / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Family / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Family / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Family / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Family / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Container / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Container / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Container / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Container / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Container / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Container / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Container / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Container / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Container / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Container / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Container / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Container / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Container / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Large Container / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Special Size / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Special Size / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Special Size / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Special Size / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Special Size / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Special Size / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Special Size / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Special Size / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Special Size / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Special Size / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Special Size / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Special Size / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Special Size / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / Special Size / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / X-Large Container / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / X-Large Container / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / X-Large Container / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / X-Large Container / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / X-Large Container / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / X-Large Container / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / X-Large Container / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / X-Large Container / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / X-Large Container / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / X-Large Container / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / X-Large Container / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / X-Large Container / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / X-Large Container / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Cheese Tortellini / X-Large Container / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Meat Tortellini / 500g / Pack</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728023842867</id>
+      <title>Chicken Tortellini / 500g / Pack</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4726673309747</id>
+    <published>2020-11-29T01:12:07-05:00</published>
+    <updated>2020-11-29T01:12:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/pasta-rolls-mississauga-noodle"/>
+    <title>Pasta Rolls</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/spinach-lasagna-rolls.jpg?v=1606629955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            16.99 - 99.99
+            <a href="https://www.meatntaters.ca/products/pasta-rolls-mississauga-noodle">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meat or Cheese &amp; Spinach Pasta Rolls</p>
+<p>Small - 6 pcs<br> Medium - 8 Servings | Family - <span data-mce-fragment="1">10</span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">pcs</span><br> Large Family - <span data-mce-fragment="1">12</span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">pcs</span><br></p>
+<p>Large Container - <span data-mce-fragment="1">16</span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">pcs</span> ($5 for Cooking)<br> Special Size - <span data-mce-fragment="1">24 </span><span data-mce-fragment="1">pcs</span> ($10 for Cooking)<br> X-Large Size - 32<span data-mce-fragment="1"> </span><span data-mce-fragment="1">pcs</span> ($10 for Cooking)<br> Cookings Charges will Apply For Catering</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meat</s:tag>
+    <s:tag>pasta</s:tag>
+    <s:tag>Pasta rolls</s:tag>
+    <s:tag>pastas</s:tag>
+    <s:tag>rolls</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Cheese &amp; Spinach Pasta Rolls / 6 / Small (uncooked)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Cheese &amp; Spinach Pasta Rolls / 8 / Medium (uncooked)</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Cheese &amp; Spinach Pasta Rolls / 10 / Family (uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Cheese &amp; Spinach Pasta Rolls / 12 / Large Family (uncooked)</title>
+      <s:price currency="CAD">34.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Cheese &amp; Spinach Pasta Rolls / 16 / Large Container (uncooked)</title>
+      <s:price currency="CAD">44.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Cheese &amp; Spinach Pasta Rolls / 16 / Large Container (cooked)</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Cheese &amp; Spinach Pasta Rolls / 24 / Special (uncooked)</title>
+      <s:price currency="CAD">59.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Cheese &amp; Spinach Pasta Rolls / 24 / Special (cooked)</title>
+      <s:price currency="CAD">70.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Cheese &amp; Spinach Pasta Rolls / 32 / X-Large (uncooked)</title>
+      <s:price currency="CAD">88.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Cheese &amp; Spinach Pasta Rolls / 32 / X-Large (cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Meat Pasta Rolls / 6 / Small (uncooked)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Meat Pasta Rolls / 8 / Medium (uncooked)</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Meat Pasta Rolls / 10 / Family (uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Meat Pasta Rolls / 12 / Large Family (uncooked)</title>
+      <s:price currency="CAD">34.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Meat Pasta Rolls / 16 / Large Container (uncooked)</title>
+      <s:price currency="CAD">44.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Meat Pasta Rolls / 16 / Large Container (cooked)</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Meat Pasta Rolls / 24 / Special (uncooked)</title>
+      <s:price currency="CAD">59.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Meat Pasta Rolls / 24 / Special (cooked)</title>
+      <s:price currency="CAD">70.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Meat Pasta Rolls / 32 / X-Large (uncooked)</title>
+      <s:price currency="CAD">88.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726673309747</id>
+      <title>Meat Pasta Rolls / 32 / X-Large (cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4726660890675</id>
+    <published>2020-11-29T00:52:21-05:00</published>
+    <updated>2020-11-29T00:52:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/copy-of-lasagna-mississauga-noodle"/>
+    <title>Cannelloni</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/maxresdefault.jpg?v=1606628889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            7.49 - 99.99
+            <a href="https://www.meatntaters.ca/products/copy-of-lasagna-mississauga-noodle">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meat &amp; Cheese Cannelloni </p>
+<p>Single - 3 Serving | Small - 7 pcs<br> Medium - 9 Servings | Family - <span data-mce-fragment="1">12</span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">pcs</span><br> Large Family - <span data-mce-fragment="1">14</span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">pcs</span><br></p>
+<p>Large Container - <span data-mce-fragment="1">18</span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">pcs</span> ($5 for Cooking)<br> Special Size - <span data-mce-fragment="1">24 </span><span data-mce-fragment="1">pcs</span> ($10 for Cooking)<br> X-Large Size - 36<span data-mce-fragment="1"> </span><span data-mce-fragment="1">pcs</span> ($10 for Cooking)<br> Cookings Charges will Apply For Catering</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cannelloni</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>pasta</s:tag>
+    <s:tag>pastas</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726660890675</id>
+      <title>Meat &amp; Cheese Cannelloni / 3 / Single (uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726660890675</id>
+      <title>Meat &amp; Cheese Cannelloni / 7 / Small (uncooked)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726660890675</id>
+      <title>Meat &amp; Cheese Cannelloni / 9 / Medium (uncooked)</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726660890675</id>
+      <title>Meat &amp; Cheese Cannelloni / 12 / Family (uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726660890675</id>
+      <title>Meat &amp; Cheese Cannelloni / 14 / Large Family (uncooked)</title>
+      <s:price currency="CAD">34.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726660890675</id>
+      <title>Meat &amp; Cheese Cannelloni / 18 / Large Container (uncooked)</title>
+      <s:price currency="CAD">44.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726660890675</id>
+      <title>Meat &amp; Cheese Cannelloni / 18 / Large Container (cooked)</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726660890675</id>
+      <title>Meat &amp; Cheese Cannelloni / 24 / Special (uncooked)</title>
+      <s:price currency="CAD">59.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726660890675</id>
+      <title>Meat &amp; Cheese Cannelloni / 24 / Special (cooked)</title>
+      <s:price currency="CAD">70.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726660890675</id>
+      <title>Meat &amp; Cheese Cannelloni / 36 / X-Large (uncooked)</title>
+      <s:price currency="CAD">88.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726660890675</id>
+      <title>Meat &amp; Cheese Cannelloni / 36 / X-Large (cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4726358966323</id>
+    <published>2020-11-28T00:28:13-05:00</published>
+    <updated>2020-11-28T00:28:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/lasagna-mississauga-noodle"/>
+    <title>Lasagna</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/meat-lasagna-1200.jpg?v=1606923866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            7.49 - 104.99
+            <a href="https://www.meatntaters.ca/products/lasagna-mississauga-noodle">(33 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meat, Roasted Vegetable or Florentine Lasagna </p>
+<p>Single - 1 Serving | Small - 2-3 Servings<br> Medium - 3-4 Servings | Family - 4-5 Servings<br> Large Family - 5-6 Servings<br></p>
+<p>Large Container - 6-9 Servings ($5 for Cooking)<br> Special Size - 12-18 Servings ($10 for Cooking)<br> X-Large Size - 18-24 Servings ($10 for Cooking)<br> Cookings Charges will Apply For Catering</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Agnolotti</s:tag>
+    <s:tag>lasagna</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>pasta</s:tag>
+    <s:tag>pastas</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Meat Lasagna / 1 / Single (uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Meat Lasagna / 2-3 / Small (uncooked)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Meat Lasagna / 3-4 / Medium (uncooked)</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Meat Lasagna / 4-5 / Family (uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Meat Lasagna / 5-6 / Large Family (uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Meat Lasagna / 6-9 / Large Container (uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Meat Lasagna / 6-9 / Large Container (cooked)</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Meat Lasagna / 12-18 / Special (uncooked)</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Meat Lasagna / 12-18 / Special (cooked)</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Meat Lasagna / 18-24 / X-Large (uncooked)</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Meat Lasagna / 18-24 / X-Large (cooked)</title>
+      <s:price currency="CAD">104.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Roasted Vegetable Lasagna / 1 / Single (uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Roasted Vegetable Lasagna / 2-3 / Small (uncooked)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Roasted Vegetable Lasagna / 3-4 / Medium (uncooked)</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Roasted Vegetable Lasagna / 4-5 / Family (uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Roasted Vegetable Lasagna / 5-6 / Large Family (uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Roasted Vegetable Lasagna / 6-9 / Large Container (uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Roasted Vegetable Lasagna / 6-9 / Large Container (cooked)</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Roasted Vegetable Lasagna / 12-18 / Special (uncooked)</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Roasted Vegetable Lasagna / 12-18 / Special (cooked)</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Roasted Vegetable Lasagna / 18-24 / X-Large (uncooked)</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Roasted Vegetable Lasagna / 18-24 / X-Large (cooked)</title>
+      <s:price currency="CAD">104.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Florentine Lasagna / 1 / Single (uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Florentine Lasagna / 2-3 / Small (uncooked)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Florentine Lasagna / 3-4 / Medium (uncooked)</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Florentine Lasagna / 4-5 / Family (uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Florentine Lasagna / 5-6 / Large Family (uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Florentine Lasagna / 6-9 / Large Container (uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Florentine Lasagna / 6-9 / Large Container (cooked)</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Florentine Lasagna / 12-18 / Special (uncooked)</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Florentine Lasagna / 12-18 / Special (cooked)</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Florentine Lasagna / 18-24 / X-Large (uncooked)</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726358966323</id>
+      <title>Florentine Lasagna / 18-24 / X-Large (cooked)</title>
+      <s:price currency="CAD">104.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4726355329075</id>
+    <published>2020-11-27T23:38:23-05:00</published>
+    <updated>2020-11-27T23:38:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/gnocci-mississauga-noodle"/>
+    <title>Gnocchi</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/gnocchi-recipe-1-182.jpg?v=1606634272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            8.49 - 9.59
+            <a href="https://www.meatntaters.ca/products/gnocci-mississauga-noodle">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Potato Gnocchi, GF, Spinach, Butternut and cheese/spinach</span> - From Our Pasta Partners</p>
+<p><strong>Our pasta is made fresh every day from the finest ingredients imported from Italy.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gnocchi</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>pasta</s:tag>
+    <s:tag>pastas</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726355329075</id>
+      <title>Potato Gnocchi / 500g</title>
+      <s:price currency="CAD">8.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726355329075</id>
+      <title>Potato Gnocchi (GF) / 500g</title>
+      <s:price currency="CAD">8.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726355329075</id>
+      <title>Spinach Gnocchi (GF) / 500g</title>
+      <s:price currency="CAD">8.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726355329075</id>
+      <title>Butternut Gnocchi (GF) / 500g</title>
+      <s:price currency="CAD">8.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726355329075</id>
+      <title>Cheese/Spinach Gnocchi / 500g</title>
+      <s:price currency="CAD">9.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4726352871475</id>
+    <published>2020-11-27T22:51:30-05:00</published>
+    <updated>2020-11-27T22:51:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/cheese-agnolotti-mississauga-noodle"/>
+    <title>Agnolotti</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Agnolotti_1.jpg?v=1606536542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            7.49 - 99.99
+            <a href="https://www.meatntaters.ca/products/cheese-agnolotti-mississauga-noodle">(80 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cheese. Squash and Mushroom Agnolotti - From Our Pasta Partners <span data-mce-fragment="1">- For Special Orders, please leave a comment when ordering. (Without Egg and Vegan are available)</span></p>
+<p>We also do Ready Made Agnolotti with a variety of sauces. Rough Sizes Below</p>
+<p>Single - 375g | Small - 800g | medium 1250g | Family 1850g | Large Family 2050g...</p>
+<p><strong>Our pasta is made fresh every day from the finest ingredients imported from Italy.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Agnolotti</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>pasta</s:tag>
+    <s:tag>pastas</s:tag>
+    <s:tag>Puree</s:tag>
+    <s:tag>sauce</s:tag>
+    <s:tag>sauces</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / 500g / Pack</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Single / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Single / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Single / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Single / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Single / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Single / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Single / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Small / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Small / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Small / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Small / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Small / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Small / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Small / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Medium / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Medium / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Medium / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Medium / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Medium / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Medium / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Medium / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Family / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Family / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Family / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Family / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Family / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Family / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Family / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Family / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Family / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Family / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Family / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Family / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Family / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Family / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Container / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Container / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Container / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Container / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Container / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Container / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Container / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Container / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Container / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Container / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Container / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Container / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Container / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Large Container / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">48.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Special Size / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Special Size / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Special Size / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Special Size / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Special Size / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Special Size / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Special Size / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Special Size / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Special Size / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Special Size / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Special Size / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Special Size / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Special Size / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / Special Size / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / X-Large Container / Tomato Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / X-Large Container / Tomato Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / X-Large Container / Meat Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / X-Large Container / Meat Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / X-Large Container / Rosee Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / X-Large Container / Rosee Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / X-Large Container / Alfredo Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / X-Large Container / Alfredo Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / X-Large Container / Red Pepper Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / X-Large Container / Red Pepper Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / X-Large Container / Mediterranean Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / X-Large Container / Mediterranean Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / X-Large Container / Tuna Sauce (Uncooked)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Cheese Agnolotti / X-Large Container / Tuna Sauce (Cooked)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Squash Agnolotti / 500g / Pack</title>
+      <s:price currency="CAD">11.79</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726352871475</id>
+      <title>Mushroom Agnolotti / 500g / Pack</title>
+      <s:price currency="CAD">14.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4726341861427</id>
+    <published>2020-11-27T21:52:58-05:00</published>
+    <updated>2020-11-27T21:52:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/butternut-squash-soup-mississauga-noodle"/>
+    <title>Butternut Squash Soup</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/IMG_20201126_161711-removebg-preview.png?v=1606532008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            4.99 - 9.59
+            <a href="https://www.meatntaters.ca/products/butternut-squash-soup-mississauga-noodle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Butternut Squash Soup in 16oz and 32oz Jar  - From Our Pasta Partners</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butternut</s:tag>
+    <s:tag>Butternut Squash</s:tag>
+    <s:tag>Puree</s:tag>
+    <s:tag>soup</s:tag>
+    <s:tag>squash</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726341861427</id>
+      <title>Butternut Squash Soup / 16oz</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726341861427</id>
+      <title>Butternut Squash Soup / 32oz</title>
+      <s:price currency="CAD">9.59</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4726340747315</id>
+    <published>2020-11-27T21:50:53-05:00</published>
+    <updated>2020-11-27T21:50:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/tuscan-soup-mississauga-noodle"/>
+    <title>Tuscan Soup</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/IMG_20201126_161734-removebg-preview.png?v=1606531954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            4.99 - 9.59
+            <a href="https://www.meatntaters.ca/products/tuscan-soup-mississauga-noodle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tuscan Soup in 16oz and 32oz Jar  - From Our Pasta Partners</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alfredo</s:tag>
+    <s:tag>Puree</s:tag>
+    <s:tag>soup</s:tag>
+    <s:tag>Tuscan</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726340747315</id>
+      <title>Tuscan Soup / 16oz</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726340747315</id>
+      <title>Tuscan Soup / 32oz</title>
+      <s:price currency="CAD">9.59</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4726339895347</id>
+    <published>2020-11-27T21:49:07-05:00</published>
+    <updated>2020-11-27T21:49:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/minestroni-soup-mississauga-noodle"/>
+    <title>Minestrone Soup</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/IMG_20201126_161722-removebg-preview_a8015684-4346-471c-918a-20ddf60e27d6.png?v=1606531752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            4.99 - 9.59
+            <a href="https://www.meatntaters.ca/products/minestroni-soup-mississauga-noodle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Minestrone Soup in 16oz and 32oz Jar  - From Our Pasta Partners</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alfredo</s:tag>
+    <s:tag>Minestrone</s:tag>
+    <s:tag>Minestroni</s:tag>
+    <s:tag>Puree</s:tag>
+    <s:tag>soup</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726339895347</id>
+      <title>Minestrone Soup / 16oz</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726339895347</id>
+      <title>Minestrone Soup / 32oz</title>
+      <s:price currency="CAD">9.59</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4726325542963</id>
+    <published>2020-11-27T21:25:29-05:00</published>
+    <updated>2020-11-27T21:25:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/pesto-sauce-mississauga-noodle"/>
+    <title>Pesto Sauce</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/IMG_20201126_163349-removebg-preview.png?v=1606530343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            7.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pesto Sauce in 8oz Containers - From Our Pasta Partners</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alfredo</s:tag>
+    <s:tag>Pesto</s:tag>
+    <s:tag>Puree</s:tag>
+    <s:tag>sauce</s:tag>
+    <s:tag>sauces</s:tag>
+    <s:tag>Tomato</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726325542963</id>
+      <title>Alfredo Sauce / 8oz</title>
+      <s:price currency="CAD">7.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4726306734131</id>
+    <published>2020-11-27T20:44:23-05:00</published>
+    <updated>2020-11-27T20:44:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/mediterranean-sauce-mississauga-noodle"/>
+    <title>Mediterranean Sauce</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/IMG_20201126_163059-removebg-preview_835f481a-5abf-4d90-b2f1-12ad51a7bb82.png?v=1606527867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            4.25 - 7.59
+            <a href="https://www.meatntaters.ca/products/mediterranean-sauce-mississauga-noodle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mediterranean Sauce in 8oz and 16oz Containers - From Our Pasta Partners</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mediterranean</s:tag>
+    <s:tag>Puree</s:tag>
+    <s:tag>sauce</s:tag>
+    <s:tag>sauces</s:tag>
+    <s:tag>Tomato</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726306734131</id>
+      <title>Mediterranean Sauce / 8oz</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726306734131</id>
+      <title>Mediterranean Sauce / 16oz</title>
+      <s:price currency="CAD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4726306504755</id>
+    <published>2020-11-27T20:43:14-05:00</published>
+    <updated>2020-11-27T20:43:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/red-pepper-sauce-mississauga-noodle"/>
+    <title>Tuna Sauce</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/IMG_20201126_163059-removebg-preview_3e5e286e-03cd-41c1-a9c0-b3b65fb89090.png?v=1606527798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            4.49 - 8.50
+            <a href="https://www.meatntaters.ca/products/red-pepper-sauce-mississauga-noodle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tuna Sauce in 8oz and 16oz Containers - From Our Pasta Partners</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Puree</s:tag>
+    <s:tag>sauce</s:tag>
+    <s:tag>sauces</s:tag>
+    <s:tag>Tomato</s:tag>
+    <s:tag>Tomato Puree</s:tag>
+    <s:tag>tuna</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726306504755</id>
+      <title>Tuna Sauce / 8oz</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726306504755</id>
+      <title>Tuna Sauce / 16oz</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4726304833587</id>
+    <published>2020-11-27T20:21:11-05:00</published>
+    <updated>2020-11-27T20:21:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/alfredo-sauce-mississauga-noodle"/>
+    <title>Stracciatella Soup</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/IMG_20201126_161722-removebg-preview.png?v=1606531516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            4.99 - 9.59
+            <a href="https://www.meatntaters.ca/products/alfredo-sauce-mississauga-noodle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stracciatella Soup in 16oz and 32oz Jar  - From Our Pasta Partners</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alfredo</s:tag>
+    <s:tag>Puree</s:tag>
+    <s:tag>soup</s:tag>
+    <s:tag>Stracciatella</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726304833587</id>
+      <title>Stracciatella Soup / 16oz</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4726304833587</id>
+      <title>Stracciatella Soup / 32oz</title>
+      <s:price currency="CAD">9.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4578551791667</id>
+    <published>2020-11-27T20:17:08-05:00</published>
+    <updated>2020-11-27T20:17:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/tomato-puree"/>
+    <title>Tomato Sauce</title>
+    <s:type>Ready Made Food</s:type>
+    <s:vendor>Mississauga Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/IMG_20201126_163059-removebg-preview_4c944509-dd07-482e-8d25-6ff70ddae25d.png?v=1606527691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mississauga Noodles<br>
+        <strong>Type: </strong>Ready Made Food<br>
+        <strong>Price: </strong>
+            3.69 - 13.99
+            <a href="https://www.meatntaters.ca/products/tomato-puree">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tomato Sauce in 8oz, 16oz and 32oz Containers - From Our Pasta Partners</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Puree</s:tag>
+    <s:tag>sauce</s:tag>
+    <s:tag>sauces</s:tag>
+    <s:tag>Tomato</s:tag>
+    <s:tag>Tomato Puree</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4578551791667</id>
+      <title>Tomato Sauce / 8oz</title>
+      <s:price currency="CAD">3.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4578551791667</id>
+      <title>Tomato Sauce / 16oz</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4578551791667</id>
+      <title>Tomato Sauce / 32oz</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

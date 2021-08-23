@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.meatntaters.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.meatntaters.ca/collections/all.atom"/>
+  <title>Meat n&apos; Taters Delivery</title>
+  <updated>2021-08-17T16:31:20-04:00</updated>
+  <author>
+    <name>Meat n&apos; Taters Delivery</name>
+  </author>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644472455219</id>
+    <published>2021-08-17T16:31:20-04:00</published>
+    <updated>2021-08-17T16:31:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/porterhouse-steak-b-s"/>
+    <title>AAA Porterhouse Steak</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Bellwether-x-The-Butcher-Shoppe-Products-2-5_500x-removebg-preview-min.jpg?v=1597168598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            28.99 - 239.99
+            <a href="https://www.meatntaters.ca/products/porterhouse-steak-b-s">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img width="15px" height="15px" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"><span> </span>Aged 30 days </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" height="15px" width="15px" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> Hand Cut To Order </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="color: #c3d9ad;" data-mce-style="color: #c3d9ad;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" height="15px" width="15px" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"></span><span style="color: #ffffff;" data-mce-style="color: #ffffff;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> </span></span></span><span style="background-color: #000000;" data-mce-style="background-color: #000000;">100% AAA Grade Beef </span></strong></span></em></p>
+<p>AAA Porterhouse Steaks</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AAA</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>porterhouse</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>t-bone</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644472455219</id>
+      <title>16 oz</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>007582</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644472455219</id>
+      <title>5 x 16 oz</title>
+      <s:price currency="CAD">124.99</s:price>
+      <s:sku>007582</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644472455219</id>
+      <title>10 x 16 oz</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>007582</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6593956675635</id>
+    <published>2021-08-17T16:22:49-04:00</published>
+    <updated>2021-08-17T16:22:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/aaa-grass-fed-beef-brisket"/>
+    <title>AAA Grass Fed Beef Brisket</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Bellwether-x-The-Butcher-Shoppe-Products-2-51_500x-removebg-preview-min_b4a9d80b-1a3e-4e39-965a-eeb731fc15c8.jpg?v=1629231770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" height="15px" width="15px"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"><span> </span>Aged 30 days </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="color: #c3d9ad;" data-mce-style="color: #c3d9ad;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img width="15px" height="15px" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"></span><span style="color: #ffffff;" data-mce-style="color: #ffffff;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> </span></span></span><span style="background-color: #000000;" data-mce-style="background-color: #000000;">100% AAA Grade Beef</span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #000000;" data-mce-style="background-color: #000000;"><span style="color: #c3d9ad;" data-mce-fragment="1" data-mce-style="color: #c3d9ad;"><span style="background-color: #ffffff;" data-mce-fragment="1" data-mce-style="background-color: #ffffff;"><img width="15px" height="15px" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"></span><span style="color: #ffffff;" data-mce-fragment="1" data-mce-style="color: #ffffff;"><span style="background-color: #ffffff;" data-mce-fragment="1" data-mce-style="background-color: #ffffff;"> </span> </span></span>100% Grass Fed </span></strong></span></em></p>
+<p>AAA Beef Brisket (10-14lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aa</s:tag>
+    <s:tag>AAA</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>brisket</s:tag>
+    <s:tag>halal</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6593956675635</id>
+      <title>10-14lbs</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku>33445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6593900281907</id>
+    <published>2021-08-17T15:38:28-04:00</published>
+    <updated>2021-08-17T15:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/aged-aaa-grass-fed-striploin-steaks-box"/>
+    <title>Aged AAA Grass Fed Striploin Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/ph-striploin_e5e3fb40-6cd8-45df-8b1a-b4a0d3561a52_530x_2x-removebg-preview.png?v=1629229174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            139.99 - 249.99
+            <a href="https://www.meatntaters.ca/products/aged-aaa-grass-fed-striploin-steaks-box">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" height="15px" width="15px"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> Aged 30 days </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img width="15px" height="15px" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> Hand Cut To Order </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="color: #c3d9ad;" data-mce-style="color: #c3d9ad;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img width="15px" height="15px" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"></span><span style="color: #ffffff;" data-mce-style="color: #ffffff;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> </span></span></span><span style="background-color: #000000;" data-mce-style="background-color: #000000;">100% AAA Grade Beef </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #000000;" data-mce-style="background-color: #000000;"><span style="color: #c3d9ad;" data-mce-style="color: #c3d9ad;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" height="15px" width="15px" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"></span><span style="color: #ffffff;" data-mce-style="color: #ffffff;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"> </span> </span></span>100% Grass Fed Beef </span></strong></span></em></p>
+<p><span data-mce-fragment="1">Aged AAA Grass Fed Striploin Steaks 8oz Center Cut - 10 Pcs/Box (Fresh)</span><br><span data-mce-fragment="1">Aged AAA Grass Fed Striploin Steaks 8oz Center Cut - 20 Pcs/Box (Fresh)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AAA</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>fed</s:tag>
+    <s:tag>grass</s:tag>
+    <s:tag>Grass Fed</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>striploin</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6593900281907</id>
+      <title>Canada AAA (Fresh) (C/C) / 8oz x 10</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku>4345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6593900281907</id>
+      <title>Canada AAA (Fresh) (C/C) / 8oz x 20</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku>4345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644472356915</id>
+    <published>2021-07-12T16:09:10-04:00</published>
+    <updated>2021-07-12T16:09:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/milk-fed-veal-chop-b-s"/>
+    <title>Veal Frenched Chop</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Bellwether-x-The-Butcher-Shoppe-Products-2-14_500x-removebg-preview-min.jpg?v=1597168561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-size: 1.4em;">10 lb case of veal chops (8oz each)</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chop</s:tag>
+    <s:tag>Veal</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644472356915</id>
+      <title>8oz x 20</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>015430</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4595387301939</id>
+    <published>2021-07-09T17:00:12-04:00</published>
+    <updated>2021-07-09T17:00:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/aaa-striploin-tissue-end"/>
+    <title>AA/AAA Bistro Steaks</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/carcass-strip-loin-steak.jpg?v=1593551567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>AA/AAA 10oz New York Bistro Steaks<br><span></span>Buy it as a Four Piece or Box.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AAA</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>Special</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>striploin</s:tag>
+    <s:tag>USDA</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4595387301939</id>
+      <title>New York / 8 x 10oz / Bistro Steak</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>WAGJAG</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6577303912499</id>
+    <published>2021-06-30T10:51:46-04:00</published>
+    <updated>2021-06-30T10:51:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/lamb-burgers"/>
+    <title>Lamb Burgers</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Lamb-Burgers.jpg?v=1625064930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lamb Burgers 4oz - 12pc</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beyond</s:tag>
+    <s:tag>burgers</s:tag>
+    <s:tag>Lamb</s:tag>
+    <s:tag>meat</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6577303912499</id>
+      <title>4oz x 12</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>MEA185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6577190993971</id>
+    <published>2021-06-29T21:52:16-04:00</published>
+    <updated>2021-06-29T21:52:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/breaded-chicken-breast"/>
+    <title>Breaded Chicken Breast</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Keto-Baked-Breaded-Chicken-Breast-recipe-pin.jpg?v=1625017893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Breaded Chicken Breast- Frozen</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>breaded</s:tag>
+    <s:tag>breast</s:tag>
+    <s:tag>breasts</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6577190993971</id>
+      <title>4-6oz x 30</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>RET-2000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6577082236979</id>
+    <published>2021-06-29T12:21:59-04:00</published>
+    <updated>2021-06-29T12:21:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/a5-japanese-wagyu-ribeye-steak"/>
+    <title>A5 Japanese Wagyu Ribeye Steak</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/1548045095565-removebg-preview_99c150a2-caef-4028-84ba-484e45c0d9ee.png?v=1624983720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            114.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A5 Japanese Wagyu Striploin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef</s:tag>
+    <s:tag>japanese</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>striploin</s:tag>
+    <s:tag>wagyu</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6577082236979</id>
+      <title>16 oz</title>
+      <s:price currency="CAD">114.99</s:price>
+      <s:sku>1494267</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6577078763571</id>
+    <published>2021-06-29T11:48:27-04:00</published>
+    <updated>2021-06-29T11:48:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/tenderloin-tips"/>
+    <title>Tenderloin Tips</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/ZBEEWAG048-1-R-Wagyu-Tips-removebg-preview.png?v=1624981740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tenderloin Tips (10lbs)<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>filet</s:tag>
+    <s:tag>minon</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>tenderloin</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6577078763571</id>
+      <title>Tips / 10lbs / Tenderloin Medallion Steak</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>2225</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6577069817907</id>
+    <published>2021-06-29T10:51:24-04:00</published>
+    <updated>2021-06-29T10:51:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/sweet-italian-sausage"/>
+    <title>Sweet Italian Sausage</title>
+    <s:type>Value</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/sweet-italian_b07a6f1a-2f90-4dde-8341-292b9a54c13b.png?v=1624978287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Italian Sausage<br><span data-mce-fragment="1">4 links per pack, 8 packs per box, 11 lb box</span><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>Pork</s:tag>
+    <s:tag>sausage</s:tag>
+    <s:tag>Sausages</s:tag>
+    <s:tag>sweet</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6577069817907</id>
+      <title>24 Pack (11lbs)</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku>30200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4533660090419</id>
+    <published>2021-06-29T10:49:02-04:00</published>
+    <updated>2021-06-29T10:49:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/handmade-burgers"/>
+    <title>AAA, Wagyu, Smash, Sliders...  Burgers</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/The-Healthy-Butcher-New-Zealand-Grassfed-Wagyu-Burgers.jpg?v=1629230955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            32.99 - 119.99
+            <a href="https://www.meatntaters.ca/products/handmade-burgers">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beef Burgers </p>
+<p>Smash Burgers - 9x8oz, 12x6oz, 20x4oz</p>
+<p>Sliders - 36x2oz</p>
+<p><span data-mce-fragment="1">Special Blend Burger - </span>24x6oz</p>
+<p>Steak Spice Burgers - 25x6oz</p>
+<p>Bear Paw Patties - 24x6oz</p>
+<p>Butcher Burgers - 40x4oz</p>
+<p>Brisket &amp; Chuck Burgers - 9x8oz, 12x6oz,18x4oz</p>
+<p>Wagyu Burgers - 6.5ozx25</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AAA</s:tag>
+    <s:tag>bear paw</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>brisket</s:tag>
+    <s:tag>burger</s:tag>
+    <s:tag>chuck</s:tag>
+    <s:tag>Hamburger</s:tag>
+    <s:tag>hamburgers</s:tag>
+    <s:tag>slider</s:tag>
+    <s:tag>smash</s:tag>
+    <s:tag>wagyu</s:tag>
+    <s:tag>waygu</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4533660090419</id>
+      <title>Bear Paw Burgers / 6oz x 24</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>12035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4533660090419</id>
+      <title>Steak Spice Burger / 6oz x 25</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>12035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4533660090419</id>
+      <title>Butcher Burger / 4oz x 40</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>12035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4533660090419</id>
+      <title>Smash Burger / 4oz x 20</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>12035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4533660090419</id>
+      <title>Slider Burger / 2oz x 36</title>
+      <s:price currency="CAD">40.99</s:price>
+      <s:sku>12035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4533660090419</id>
+      <title>Brisket &amp; Chuck Burger / 6oz x 12</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>12035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4533660090419</id>
+      <title>Wagyu Burger / 6.5oz x 25</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>12035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4598339272755</id>
+    <published>2021-06-29T10:04:32-04:00</published>
+    <updated>2021-06-29T10:04:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/aaa-t-bone-steaks"/>
+    <title>AAA T-Bone Steaks</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Beef_T_Bone_Steak-removebg-preview.png?v=1593718394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/canadianAAA.png?v=1591644995">  <br>16oz AAA T-Bone Steak (Box of 8)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AAA</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>t-bone</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4598339272755</id>
+      <title>AAA / 5 Piece x 16oz / T-Bone Steak</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>Butcher Shoppe</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644472193075</id>
+    <published>2021-05-10T09:58:40-04:00</published>
+    <updated>2021-05-10T09:58:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/fresh-pork-back-ribs-b-s"/>
+    <title>Pork Baby Back Ribs</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Bellwether-x-The-Butcher-Shoppe-Products-R1-24_500x-removebg-preview-min.jpg?v=1597168493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>***SUMMER SUPER SPECIAL***</p>
+<p>Frozen racks of Pork Back Ribs</p>
+<p>10 lbs/6-8 Racks(depending in size) individually wrapped</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back</s:tag>
+    <s:tag>Pork</s:tag>
+    <s:tag>ribs</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644472193075</id>
+      <title>6-8 Racks (10 lbs)</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>016173</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6542922842163</id>
+    <published>2021-03-19T00:21:04-04:00</published>
+    <updated>2021-03-19T00:21:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/beef-kabobs"/>
+    <title>Beef Kabobs</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Lamb_Kabob_d0bae07d-e514-4c9d-8110-64fe1347594f.jpg?v=1616127665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">40 Kabobs - 2kg Total (Halal)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>kabob</s:tag>
+    <s:tag>kabobs</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6542922842163</id>
+      <title>40 Pieces</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>RET-5004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527762669619</id>
+    <published>2021-03-19T00:20:22-04:00</published>
+    <updated>2021-03-19T00:20:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/lamp-kabob"/>
+    <title>Lamb Kabobs</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Lamb_Kabob.jpg?v=1588623216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">40 Kabobs - 2kg Total</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kabob</s:tag>
+    <s:tag>kabobs</s:tag>
+    <s:tag>Lamb</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527762669619</id>
+      <title>40 Pieces</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>RET-5004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644485136435</id>
+    <published>2021-03-19T00:18:36-04:00</published>
+    <updated>2021-03-19T00:18:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/beyond-meat-burgers"/>
+    <title>Beyond Meat Burgers</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/beyond-meat-burger-w-logo.jpg?v=1597777598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            124.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beyond Meat Burgers 4oz - 40pc</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beyond</s:tag>
+    <s:tag>burgers</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644485136435</id>
+      <title>40 Pieces / Beyond Meat 4oz Burger</title>
+      <s:price currency="CAD">124.99</s:price>
+      <s:sku>MEA223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6542922580019</id>
+    <published>2021-03-19T00:13:24-04:00</published>
+    <updated>2021-03-19T00:13:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/philly-steaks"/>
+    <title>Philly Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/MEA049_A_400x_dec0c8bf-9ddf-433c-8ebd-f9ff0ba45399.jpg?v=1616127376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Philly Steaks 5.3oz (10lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bacon</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>deli</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:tag>veal</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6542922580019</id>
+      <title>10lbs</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4565335146547</id>
+    <published>2021-03-19T00:06:49-04:00</published>
+    <updated>2021-03-19T00:06:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/lobster-tails"/>
+    <title>Lobster Baby Boiled</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Rock-Lobster.jpg?v=1616127029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lobster Baby Boiled (10-14oz) 10lbs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>lobster</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4565335146547</id>
+      <title>10 lbs</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku>SEA042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6542794784819</id>
+    <published>2021-03-18T11:04:34-04:00</published>
+    <updated>2021-03-18T11:04:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/polish-sausage"/>
+    <title>Polish Sausage</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sacks Food Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/nf1t7ax9p875_b0f52864-165d-4841-a239-95147af3b055.png?v=1616079875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sacks Food Co<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 x Polish Sausage (300g)<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deli</s:tag>
+    <s:tag>Kielbassa Sausage</s:tag>
+    <s:tag>Kolbassa</s:tag>
+    <s:tag>Pork</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6542794784819</id>
+      <title>300g x 2</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>91631</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577324924979</id>
+    <published>2021-01-26T15:14:47-05:00</published>
+    <updated>2021-01-26T15:14:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/large-mushrooms"/>
+    <title>Portabello Mushroom</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/931b7242-3f4e-4e12-aff8-5ac5a2465f93.jpg?v=1592594826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            5.99 - 25.99
+            <a href="https://www.meatntaters.ca/products/large-mushrooms">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Portabello by Lb or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Large Mushrooms</s:tag>
+    <s:tag>mushroom</s:tag>
+    <s:tag>Mushrooms</s:tag>
+    <s:tag>Portabello</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577324924979</id>
+      <title>Portabello Mushrooms / 340g</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>202309</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577324924979</id>
+      <title>Portabello Mushrooms Box / 5 Lb</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>202309</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4534282420275</id>
+    <published>2021-01-13T15:14:20-05:00</published>
+    <updated>2021-01-13T15:14:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/clementines"/>
+    <title>Clementines</title>
+    <s:type>Fruit</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Fruit_Citrus_Clementines.jpg?v=1588892274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Fruit<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>5 Lb Package of Clementines</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cirtus</s:tag>
+    <s:tag>Clementines</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>ORANGES</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4534282420275</id>
+      <title>Clementines / 5 Lbs</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>101309</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4575973703731</id>
+    <published>2021-01-13T15:13:08-05:00</published>
+    <updated>2021-01-13T15:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/avpcadoes"/>
+    <title>Avocadoes</title>
+    <s:type>Produce - Avocadoes</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/food-avocado-large-bigstock.jpg?v=1591992443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Produce - Avocadoes<br>
+        <strong>Price: </strong>
+            5.99 - 104.39
+            <a href="https://www.meatntaters.ca/products/avpcadoes">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium and Large Avocadoes by piece or box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Avocadoe</s:tag>
+    <s:tag>Avocadoes</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>Tropic Fruit</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4575973703731</id>
+      <title>Avocadoes / 6 Pcs</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>101906</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4575973703731</id>
+      <title>Avocadoe Box / 40 Piece (Medium)</title>
+      <s:price currency="CAD">104.39</s:price>
+      <s:sku>101902</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4575973703731</id>
+      <title>Avocadoe Box / 12 Pieces (Large)</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>101906</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4575566364723</id>
+    <published>2021-01-13T15:11:44-05:00</published>
+    <updated>2021-01-13T15:11:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/honeydews-1"/>
+    <title>Honeydews</title>
+    <s:type>Produce - Honeydews</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Honeydew-Melon-honeydew-melon-35247495-849-565.jpg?v=1591938813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Produce - Honeydews<br>
+        <strong>Price: </strong>
+            4.99 - 34.39
+            <a href="https://www.meatntaters.ca/products/honeydews-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Honeydews by piece or box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fruit</s:tag>
+    <s:tag>Honeydew</s:tag>
+    <s:tag>Honeydews</s:tag>
+    <s:tag>Melons</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4575566364723</id>
+      <title>Honeydews / 1 Piece</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>101636</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4575566364723</id>
+      <title>Honeydews / 6 Pieces Box</title>
+      <s:price currency="CAD">34.39</s:price>
+      <s:sku>101636</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4509078585395</id>
+    <published>2021-01-13T15:10:28-05:00</published>
+    <updated>2021-01-13T15:10:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/cantaloupes"/>
+    <title>Cantaloupes</title>
+    <s:type>Produce - Cantaloupes</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Melons_Cantaloupe_Hero_84e89ecc-5add-4998-92c7-0777c47b57e6.jpg?v=1587596086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Produce - Cantaloupes<br>
+        <strong>Price: </strong>
+            4.99 - 60.65
+            <a href="https://www.meatntaters.ca/products/cantaloupes">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cantaloupes by piece or box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cantalope</s:tag>
+    <s:tag>Cantaloupe</s:tag>
+    <s:tag>Cantaloupes</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>Melons</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509078585395</id>
+      <title>Cantaloupes / 1 Piece</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>101617</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509078585395</id>
+      <title>Cantaloupe Box / 12 Pieces</title>
+      <s:price currency="CAD">60.65</s:price>
+      <s:sku>101617</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577187168307</id>
+    <published>2021-01-13T15:03:33-05:00</published>
+    <updated>2021-01-13T15:03:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/shredded-iceberg"/>
+    <title>Shredded Iceberg</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Shredded-Iceberg_3205ac86-cd57-46b4-8de0-db092f7e6aa7.png?v=1597862283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shredded Iceberg Lettuce 2.27 Kg</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>BBQ Produce</s:tag>
+    <s:tag>Iceberg Lettuce</s:tag>
+    <s:tag>Leaf Vegetables</s:tag>
+    <s:tag>Lettuce</s:tag>
+    <s:tag>shredded</s:tag>
+    <s:tag>Shredded Iceberg</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577187168307</id>
+      <title>Shredded Iceberg Lettuce / 5 Lbs</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>707420</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

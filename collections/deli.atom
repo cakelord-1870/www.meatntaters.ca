@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.meatntaters.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.meatntaters.ca/collections/deli.atom"/>
+  <title>Meat n&apos; Taters Delivery</title>
+  <updated>2021-03-19T00:13:24-04:00</updated>
+  <author>
+    <name>Meat n&apos; Taters Delivery</name>
+  </author>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6542922580019</id>
+    <published>2021-03-19T00:13:24-04:00</published>
+    <updated>2021-03-19T00:13:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/philly-steaks"/>
+    <title>Philly Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/MEA049_A_400x_dec0c8bf-9ddf-433c-8ebd-f9ff0ba45399.jpg?v=1616127376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Philly Steaks 5.3oz (10lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bacon</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>deli</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:tag>veal</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6542922580019</id>
+      <title>10lbs</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6542794784819</id>
+    <published>2021-03-18T11:04:34-04:00</published>
+    <updated>2021-03-18T11:04:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/polish-sausage"/>
+    <title>Polish Sausage</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sacks Food Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/nf1t7ax9p875_b0f52864-165d-4841-a239-95147af3b055.png?v=1616079875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sacks Food Co<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 x Polish Sausage (300g)<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deli</s:tag>
+    <s:tag>Kielbassa Sausage</s:tag>
+    <s:tag>Kolbassa</s:tag>
+    <s:tag>Pork</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6542794784819</id>
+      <title>300g x 2</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>91631</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4728390975539</id>
+    <published>2020-12-02T15:01:15-05:00</published>
+    <updated>2020-12-02T15:01:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/veal-bacon"/>
+    <title>Smoked Veal Bacon</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Veal-Bacon-300x300_3cf73b54-a3f3-4daf-a73f-a6ebb8f7d883.jpg?v=1607546846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Smoked Veal Bacon 375g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bacon</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>deli</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:tag>veal</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728390975539</id>
+      <title>375g</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>a1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4728390058035</id>
+    <published>2020-12-02T14:58:59-05:00</published>
+    <updated>2020-12-02T14:58:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/chicken-bacon"/>
+    <title>Chicken Bacon</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Chicken-Macon-1.jpg?v=1606939266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chicken Bacon 375g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bacon</s:tag>
+    <s:tag>chicken</s:tag>
+    <s:tag>deli</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728390058035</id>
+      <title>375g</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>a1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527761424435</id>
+    <published>2020-11-25T20:01:49-05:00</published>
+    <updated>2020-11-25T20:01:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/sliced-turkey-bacon"/>
+    <title>Sliced Turkey Bacon</title>
+    <s:type>Value</s:type>
+    <s:vendor>Sysco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Turkey_Bacon.jpg?v=1588626172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sysco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sliced Turkey Bacon (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bacon</s:tag>
+    <s:tag>deli</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:tag>Turkey</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527761424435</id>
+      <title>11lbs</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>0288027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4721582309427</id>
+    <published>2020-11-12T11:17:35-05:00</published>
+    <updated>2020-11-12T11:17:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/pork-boneless-roast-2-5lbs"/>
+    <title>Pork Boneless Roast</title>
+    <s:type>Deli</s:type>
+    <s:vendor>Halendas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/large_0a7aae39-4c8e-4795-8a6d-0c679bac259e.jpg?v=1605197878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halendas<br>
+        <strong>Type: </strong>Deli<br>
+        <strong>Price: </strong>
+            21.99 - 34.99
+            <a href="https://www.meatntaters.ca/products/pork-boneless-roast-2-5lbs">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pork Boneless Roast (2.5lbs) or (5lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boneless</s:tag>
+    <s:tag>HIP ROAST</s:tag>
+    <s:tag>pork</s:tag>
+    <s:tag>roast</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4721582309427</id>
+      <title>Boneless Pork Roast / 2.5lbs</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4721582309427</id>
+      <title>Boneless Pork Roast / 5lbs</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720328900659</id>
+    <published>2020-11-07T20:06:16-05:00</published>
+    <updated>2020-11-07T20:06:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/pepperoni"/>
+    <title>Sliced Pepperoni</title>
+    <s:type>Deli</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/176.png?v=1604878772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Deli<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 x Sliced Pepperoni (500g)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deli</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>pepperoni</s:tag>
+    <s:tag>pork</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720328900659</id>
+      <title>Sliced / 2.5lbs</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>91618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720328507443</id>
+    <published>2020-11-07T19:54:01-05:00</published>
+    <updated>2020-11-07T19:54:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/beef-hip-roast-2-5lbs"/>
+    <title>Beef Hip Roast</title>
+    <s:type>Deli</s:type>
+    <s:vendor>Halendas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/marinated-rump-roast-3058682-hero-01-0977a498722f47debaa7034c13053048-removebg-preview.png?v=1604796857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halendas<br>
+        <strong>Type: </strong>Deli<br>
+        <strong>Price: </strong>
+            29.99 - 59.99
+            <a href="https://www.meatntaters.ca/products/beef-hip-roast-2-5lbs">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beef Hip Roast (2.5lbs) or (5lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef</s:tag>
+    <s:tag>HIP ROAST</s:tag>
+    <s:tag>roast beef</s:tag>
+    <s:tag>special</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720328507443</id>
+      <title>Hip Roast / 2.5lbs</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720328507443</id>
+      <title>Hip Roast / 5lbs</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527765356595</id>
+    <published>2020-11-05T15:45:17-05:00</published>
+    <updated>2020-11-05T15:45:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/roast-beef"/>
+    <title>Roast Beef</title>
+    <s:type>Deli</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Sliced_Meat_Roast_Beef.jpg?v=1588626060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Deli<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 x Roast Beef Sliced (300g)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef</s:tag>
+    <s:tag>deli</s:tag>
+    <s:tag>roast beef</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527765356595</id>
+      <title>Sliced / 300g x 2</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>91630</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4551306870835</id>
+    <published>2020-05-22T08:29:42-04:00</published>
+    <updated>2020-05-22T08:29:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/kolbassa-chubs"/>
+    <title>Kielbassa Sausage</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/nf1t7ax9p875.png?v=1590510020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 x Kielbassa Sausage (300g)<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deli</s:tag>
+    <s:tag>Kielbassa Sausage</s:tag>
+    <s:tag>Kolbassa</s:tag>
+    <s:tag>Pork</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4551306870835</id>
+      <title>300g x 2</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>91631</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4533882880051</id>
+    <published>2020-05-13T09:08:35-04:00</published>
+    <updated>2020-05-13T09:08:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/sliced-bacon"/>
+    <title>Sliced Bacon</title>
+    <s:type>Value</s:type>
+    <s:vendor>Halendas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/800px_COLOURBOX3571637.jpg?v=1589117059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halendas<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            5.99 - 56.99
+            <a href="https://www.meatntaters.ca/products/sliced-bacon">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ontario Thick Sliced Bacon - 1 lbs</p>
+<p>11lbs of thick leadbetter or 11lbs of thin cut bacon</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bacon</s:tag>
+    <s:tag>deli</s:tag>
+    <s:tag>Pork</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4533882880051</id>
+      <title>375g / Schneiders</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>sacks Food Co</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4533882880051</id>
+      <title>500g / Leadbetter</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>sacks Food Co</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4533882880051</id>
+      <title>1lbs (Thick) / Leadbetter</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4533882880051</id>
+      <title>11lbs (Ends) / Cherry Pink</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>a1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4533882880051</id>
+      <title>10lbs (Thick) / Smoked Butcher Cut</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>26500  Butcher Shoppe</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4538960642099</id>
+    <published>2020-05-12T11:35:22-04:00</published>
+    <updated>2020-05-12T11:35:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/mild-pepperettes"/>
+    <title>Mild Pepperettes</title>
+    <s:type>Deli</s:type>
+    <s:vendor>Halendas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Pepperettes.jpg?v=1589298625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halendas<br>
+        <strong>Type: </strong>Deli<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 x Mild Pepperettes (250g)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deli</s:tag>
+    <s:tag>mild</s:tag>
+    <s:tag>Pepperettes</s:tag>
+    <s:tag>Pork</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4538960642099</id>
+      <title>250g x 4</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>F99285</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4538960609331</id>
+    <published>2020-05-12T11:35:20-04:00</published>
+    <updated>2020-05-12T11:35:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/hot-pepperettes"/>
+    <title>Hot Pepperettes</title>
+    <s:type>Deli</s:type>
+    <s:vendor>Halendas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Pepperettes_717b3e56-6e8c-4555-b9c1-619edfd7e6be.jpg?v=1589298644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halendas<br>
+        <strong>Type: </strong>Deli<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 x Hot Pepperettes (250g)<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deli</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>Pepperettes</s:tag>
+    <s:tag>Pork</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4538960609331</id>
+      <title>250g x 4</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>F99285</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527765422131</id>
+    <published>2020-05-02T11:39:31-04:00</published>
+    <updated>2020-05-02T11:39:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/pastrami"/>
+    <title>Corned Beef Pastrami</title>
+    <s:type>Deli</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Sliced_Meat_Pastrami.jpg?v=1588625933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Deli<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2 x Corned Beef Pastrami (300g)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef</s:tag>
+    <s:tag>deli</s:tag>
+    <s:tag>Pastrami</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527765422131</id>
+      <title>Sliced / 5lbs</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>91637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527765389363</id>
+    <published>2020-05-02T11:39:31-04:00</published>
+    <updated>2020-05-02T11:39:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/black-forest-ham"/>
+    <title>Black Forest Ham</title>
+    <s:type>Deli</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Sliced_Meat_Black_Forest_Ham.jpg?v=1588618911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Deli<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 x Black Forest Ham (300g)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>deli</s:tag>
+    <s:tag>forest</s:tag>
+    <s:tag>ham</s:tag>
+    <s:tag>pork</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527765389363</id>
+      <title>Sliced / 300g x 2</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>91635</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527765323827</id>
+    <published>2020-05-02T11:39:30-04:00</published>
+    <updated>2020-05-02T11:39:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/turkey"/>
+    <title>Sliced Turkey</title>
+    <s:type>Deli</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Sliced_Meat_Turkey.jpg?v=1588641534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Deli<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Turkey Sliced - 300 Gm Pkgs - 2 Pkgs Per Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deli</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:tag>Turkey</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527765323827</id>
+      <title>Sliced / 300g x 2</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>91636</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527765291059</id>
+    <published>2020-05-02T11:39:30-04:00</published>
+    <updated>2020-05-02T11:39:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/prosciutto-sliced"/>
+    <title>Prosciutto Sliced</title>
+    <s:type>Deli</s:type>
+    <s:vendor>Sacks Food Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Sliced_Meat_Prosciutto.jpg?v=1588626016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sacks Food Co<br>
+        <strong>Type: </strong>Deli<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 x Prosciutto Sliced (100g)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deli</s:tag>
+    <s:tag>pork</s:tag>
+    <s:tag>prosciutto</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527765291059</id>
+      <title>Sliced / 100g x 2</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527765225523</id>
+    <published>2020-05-02T11:39:29-04:00</published>
+    <updated>2020-05-02T11:39:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/hot-calabrese-salami"/>
+    <title>Hot Calabrese Salami</title>
+    <s:type>Deli</s:type>
+    <s:vendor>Sacks Food Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Sliced_Meat_Calabrese_Salami.jpg?v=1588622263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sacks Food Co<br>
+        <strong>Type: </strong>Deli<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 x Hot Calabrese Salami Sliced (100g)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>calabrese</s:tag>
+    <s:tag>deli</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>pork</s:tag>
+    <s:tag>salami</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527765225523</id>
+      <title>Sliced / 100g x 2</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527765159987</id>
+    <published>2020-05-02T11:39:29-04:00</published>
+    <updated>2020-05-02T11:39:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/hot-genoa-salami"/>
+    <title>Hot Genoa Salami</title>
+    <s:type>Deli</s:type>
+    <s:vendor>Sacks Food Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Sliced_Meat_Genoa_Salami.jpg?v=1588622302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sacks Food Co<br>
+        <strong>Type: </strong>Deli<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 x Hot Genoa Salami (100g)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deli</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>pork</s:tag>
+    <s:tag>salami</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527765159987</id>
+      <title>Sliced / 100g x 2</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

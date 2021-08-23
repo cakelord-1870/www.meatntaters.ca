@@ -1,0 +1,1456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.meatntaters.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.meatntaters.ca/collections/chicken.atom"/>
+  <title>Meat n&apos; Taters Delivery</title>
+  <updated>2021-06-29T21:52:16-04:00</updated>
+  <author>
+    <name>Meat n&apos; Taters Delivery</name>
+  </author>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6577190993971</id>
+    <published>2021-06-29T21:52:16-04:00</published>
+    <updated>2021-06-29T21:52:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/breaded-chicken-breast"/>
+    <title>Breaded Chicken Breast</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Keto-Baked-Breaded-Chicken-Breast-recipe-pin.jpg?v=1625017893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Breaded Chicken Breast- Frozen</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>breaded</s:tag>
+    <s:tag>breast</s:tag>
+    <s:tag>breasts</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6577190993971</id>
+      <title>4-6oz x 30</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>RET-2000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4728390058035</id>
+    <published>2020-12-02T14:58:59-05:00</published>
+    <updated>2020-12-02T14:58:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/chicken-bacon"/>
+    <title>Chicken Bacon</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Chicken-Macon-1.jpg?v=1606939266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chicken Bacon 375g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bacon</s:tag>
+    <s:tag>chicken</s:tag>
+    <s:tag>deli</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728390058035</id>
+      <title>375g</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>a1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720333619251</id>
+    <published>2020-11-07T21:12:54-05:00</published>
+    <updated>2020-11-07T21:12:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/buttermilk-chicken-breasts-4kg"/>
+    <title>Buttermilk Chicken Breasts</title>
+    <s:type>Value</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/imageService_c8bada49-32a7-4048-af88-a138785a76dc.jpg?v=1616030470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Golden Maple Buttermilk Chicken Breasts Pieces - 4kg Per Box (Frozen)</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>breaded</s:tag>
+    <s:tag>burger</s:tag>
+    <s:tag>burgers</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>fingers</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720333619251</id>
+      <title>4kg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>93372</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720329719859</id>
+    <published>2020-11-07T20:26:17-05:00</published>
+    <updated>2020-11-07T20:26:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/crispy-chicken-strips-4kg"/>
+    <title>Crispy Chicken Strips</title>
+    <s:type>Value</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/chicken-strips1_c8aac675-7ef5-41d4-83eb-c2d3c567e446.jpg?v=1604801822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Golden Maple Chicken Strips - 4kg Per Box (Frozen)</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>breaded</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>fingers</s:tag>
+    <s:tag>strips</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720329719859</id>
+      <title>4kg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>93325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720329457715</id>
+    <published>2020-11-07T20:20:08-05:00</published>
+    <updated>2020-11-07T20:20:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/crispy-chicken-burgers-4kg"/>
+    <title>Crispy Chicken Burgers</title>
+    <s:type>Value</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/chicken_patty_large_e3af6d5e-f269-4ab1-b0d9-1f1a9ad80aad.jpg?v=1604801833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Golden Maple Chicken Burgers - 4kg Per Box (Frozen)</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>breaded</s:tag>
+    <s:tag>burger</s:tag>
+    <s:tag>burgers</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>fingers</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720329457715</id>
+      <title>4kg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>93324</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720189702195</id>
+    <published>2020-11-06T15:35:47-05:00</published>
+    <updated>2020-11-06T15:35:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/copy-of-chicken-hot-dog-5-pack-of-10-halal"/>
+    <title>5&quot; Chicken Hot Dogs</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sacks Food Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/HotDogiStock_000022198503_Medium_f5c80fd5-c635-4872-b623-bd4d0451358c.jpg?v=1604694949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sacks Food Co<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            1.99 - 46.99
+            <a href="https://www.meatntaters.ca/products/copy-of-chicken-hot-dog-5-pack-of-10-halal">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chicken Hot Dog 5'' (Pack of 10) - 450 grams (Halal)</p>
+<p><span>Chicken/Hot Dog 5'' (Pack of 12 - 450 grams </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>chicken</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>hot dog</s:tag>
+    <s:tag>hot dogs</s:tag>
+    <s:tag>pork</s:tag>
+    <s:tag>Sausages</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720189702195</id>
+      <title>1 x 12 / Chicken</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>Erie - 93018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720189702195</id>
+      <title>1 x 10 / Halal</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>93021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720189702195</id>
+      <title>6 x 10 / Halal</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>93021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720189702195</id>
+      <title>6 x 10 / Chicken/Pork</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>Erie - 93018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720189702195</id>
+      <title>24 x 10 / Halal</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>93021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720189702195</id>
+      <title>24 x 10 / Chicken/Pork</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>Erie - 93018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720178692147</id>
+    <published>2020-11-06T15:14:14-05:00</published>
+    <updated>2020-11-06T15:14:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/chickenbreakfast-sausage-10lbs"/>
+    <title>Chicken Breakfast Sausage</title>
+    <s:type>Value</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/s141483001892883805_p54_i1_w450_827d50a3-1de7-4d22-95b9-1d5b59de79ef.jpg?v=1604693623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chicken Breakfast Sausage (Frozen) (10lbs)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>breakfast</s:tag>
+    <s:tag>chicken</s:tag>
+    <s:tag>Sausages</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720178692147</id>
+      <title>10lbs</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>92038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4603641331763</id>
+    <published>2020-10-13T11:58:10-04:00</published>
+    <updated>2020-10-13T11:58:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/whole-chicken"/>
+    <title>Whole Chicken</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sargent Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/5dc197268cab24edb57c9b34_115502WholeBroilerChicken.jpg?v=1594141006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sargent Farms<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            15.99 - 126.99
+            <a href="https://www.meatntaters.ca/products/whole-chicken">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Single Small 3.3-4lbs or  Large 5.5-7 Pound Bone-In Whole Chicken or<br>Commercial: 51 Lbs of Bone-in Whole Chicken (Medium and Large)</p>
+Medium: 10-12 Pieces of the Whole Chicken<br> Large: 6-8 Pieces of the Whole Chicken
+<ul>
+<li><span>Fresh Whole Chicken</span></li>
+<li><span>Bone-in, skin on</span></li>
+<li>Random sized portions</li>
+<li>HMA Certified</li>
+<li>100% Halal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bone</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>in</s:tag>
+    <s:tag>on</s:tag>
+    <s:tag>skin</s:tag>
+    <s:tag>whole</s:tag>
+    <s:tag>Whole Chicken</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4603641331763</id>
+      <title>3-4lbs / Fresh (Medium)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>Off the Bone</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4603641331763</id>
+      <title>5.5-7lbs / Fresh (Large)</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>Halendas</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4603641331763</id>
+      <title>51lbs / Fresh (Medium) (Halal)</title>
+      <s:price currency="CAD">124.99</s:price>
+      <s:sku>140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4603641331763</id>
+      <title>51lbs / Fresh (Large) (Halal)</title>
+      <s:price currency="CAD">126.99</s:price>
+      <s:sku>142</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4602874921011</id>
+    <published>2020-10-13T11:58:09-04:00</published>
+    <updated>2020-10-13T11:58:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/medium-whole-wings"/>
+    <title>Medium Whole Wings</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sargent Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/imageService_1_66155fd9-c3e2-4eab-8ef8-a53cc17dae62.jpg?v=1594057207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sargent Farms<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Lbs of Medium Whole Wings<br> Buy 10 Lbs and get 1 Lb FREE. (Fresh or Frozen)</p>
+<ul>
+<li><span>Fresh chicken wings</span></li>
+<li>Bone-in</li>
+<li>Random sized portions</li>
+<li>HMA Certified</li>
+<li>100% Halal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bone</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>in</s:tag>
+    <s:tag>jumbo</s:tag>
+    <s:tag>on</s:tag>
+    <s:tag>skin</s:tag>
+    <s:tag>split</s:tag>
+    <s:tag>wings</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4602874921011</id>
+      <title>51lbs / Fresh</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku>124</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4598470639667</id>
+    <published>2020-10-13T11:58:09-04:00</published>
+    <updated>2020-10-13T11:58:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/chicken-tender-strips"/>
+    <title>Chicken Tender Strips</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sargent Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Chickentenders_600x_92e1f5b5-79ac-49e1-8149-9734da96ee7e.jpg?v=1594054000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sargent Farms<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            6.89 - 249.99
+            <a href="https://www.meatntaters.ca/products/chicken-tender-strips">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Lbs of <span class="JsGRdQ">Chicken Tender Strips </span> (Boneless)<br> Buy 10 Lbs and get 1 Lb FREE. (Fresh or Vacuum Packed then Frozen)</p>
+<p>Commercial:<br>
+55 Lbs of Boneless Tenders
+</p><ul>
+<li><span>Fresh <span class="JsGRdQ">Chicken Tender Strips </span></span></li>
+<li><span>Boneless, skinless</span></li>
+<li>Random sized portions</li>
+<li>HMA Certified</li>
+<li>100% Halal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bone</s:tag>
+    <s:tag>boneless</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>in</s:tag>
+    <s:tag>strip</s:tag>
+    <s:tag>strips</s:tag>
+    <s:tag>tender</s:tag>
+    <s:tag>tenders</s:tag>
+    <s:tag>thigh</s:tag>
+    <s:tag>thighs</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4598470639667</id>
+      <title>1lb / Fresh</title>
+      <s:price currency="CAD">6.89</s:price>
+      <s:sku>211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4598470639667</id>
+      <title>8.8lbs / IQF</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>Erie Meat - 93720</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4598470639667</id>
+      <title>11lbs / Fresh</title>
+      <s:price currency="CAD">68.99</s:price>
+      <s:sku>211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4598470639667</id>
+      <title>55lbs / Fresh</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku>811</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4593355751475</id>
+    <published>2020-10-13T11:58:09-04:00</published>
+    <updated>2020-10-13T11:58:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/whole-chicken-legs"/>
+    <title>Whole Chicken Legs</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sargent Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/wholeleg_600x_889e60fc-7f3d-4a2e-b83b-cf584da0a82d.jpg?v=1594060153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sargent Farms<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            4.99 - 224.99
+            <a href="https://www.meatntaters.ca/products/whole-chicken-legs">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Lbs of Whole Chicken Legs (Boneless)<br> Buy 10 Lbs and get 1 Lb FREE. (Fresh or Vacuum Packed then Frozen)<br>
+Bonless Skinless or Skin On Dark Meat Knuckle Removed Whole Chicken Legs
+</p><ul>
+<li><span>Fresh chicken legs</span></li>
+<li><span>Boneless, skinless</span></li>
+<li>Random sized portions</li>
+<li>HMA Certified</li>
+<li>100% Halal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bone</s:tag>
+    <s:tag>boneless</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>in</s:tag>
+    <s:tag>leg</s:tag>
+    <s:tag>legs</s:tag>
+    <s:tag>thigh</s:tag>
+    <s:tag>thighs</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593355751475</id>
+      <title>11lbs / Fresh</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku>282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593355751475</id>
+      <title>55lbs / Fresh</title>
+      <s:price currency="CAD">224.99</s:price>
+      <s:sku>882</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593355751475</id>
+      <title>55lbs / Fresh (Skin On)</title>
+      <s:price currency="CAD">214.99</s:price>
+      <s:sku>883</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593355751475</id>
+      <title>1 Lb / Fresh</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4593353818163</id>
+    <published>2020-10-13T11:58:08-04:00</published>
+    <updated>2020-10-13T11:58:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/thighs-boneless"/>
+    <title>Chicken Thighs (Boneless)</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sargent Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/thigh_600x_fdb819d3-d4ee-4e8f-8470-d2630cd5f4f7.jpg?v=1607054118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sargent Farms<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            6.99 - 269.99
+            <a href="https://www.meatntaters.ca/products/thighs-boneless">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Lbs of Chicken Thighs (Boneless)<br> Buy 10 Lbs and get 1 Lb FREE. (Fresh or Vacuum Packed then Frozen)</p>
+<ul>
+<li>Fresh chicken thigh</li>
+<li>Bone-in, skin on</li>
+<li>Random sized portions</li>
+<li>HMA Certified</li>
+<li>100% Halal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bone</s:tag>
+    <s:tag>boneless</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>thigh</s:tag>
+    <s:tag>thighs</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593353818163</id>
+      <title>1 Lb / Fresh</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>Halendas</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593353818163</id>
+      <title>11lbs / Fresh</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>sargent</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593353818163</id>
+      <title>55lbs / Fresh</title>
+      <s:price currency="CAD">269.99</s:price>
+      <s:sku>884</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593353818163</id>
+      <title>3.75 Lb / Fresh</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>Sargant</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4593352212531</id>
+    <published>2020-10-13T11:58:08-04:00</published>
+    <updated>2020-10-13T11:58:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/chicken-breast-bone-in"/>
+    <title>Chicken Breast (Bone-In)</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sargent Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/BoneInChickenBreast_600x_cd48599b-9f5f-4173-903d-ac91e5838f3f.jpg?v=1594049952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sargent Farms<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            4.29 - 149.99
+            <a href="https://www.meatntaters.ca/products/chicken-breast-bone-in">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Lbs of Chicken Breast (Bone-In)<br> Buy 10 Lbs and get 1 Lb FREE. (Fresh or Vacuum Packed then Frozen)</p>
+<p>Commercial:<br> 51 Lbs of Bone-in Chicken Breast with Back Cap Attached (Medium and Large)</p>
+<ul>
+<li><span>Fresh chicken breasts</span></li>
+<li><span>Bone-in, skin on</span></li>
+<li>Random sized portions</li>
+<li>HMA Certified</li>
+<li>100% Halal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bone</s:tag>
+    <s:tag>breast</s:tag>
+    <s:tag>breasts</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>in</s:tag>
+    <s:tag>on</s:tag>
+    <s:tag>skin</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593352212531</id>
+      <title>11lbs / Fresh</title>
+      <s:price currency="CAD">43.99</s:price>
+      <s:sku>263</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593352212531</id>
+      <title>51lbs / Fresh (Large)</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593352212531</id>
+      <title>51lbs / Fresh (Medium)</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku>109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593352212531</id>
+      <title>1lb / Fresh</title>
+      <s:price currency="CAD">4.29</s:price>
+      <s:sku>263</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4593349689395</id>
+    <published>2020-10-13T11:58:08-04:00</published>
+    <updated>2020-10-13T11:58:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/jumbo-split-wings"/>
+    <title>Jumbo Split Wings</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sargent Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/imageService_2_dadd4548-a8cd-45ac-93e9-829714953255.jpg?v=1594057561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sargent Farms<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            12.99 - 153.99
+            <a href="https://www.meatntaters.ca/products/jumbo-split-wings">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Lbs of Jumbo Split Wings<br> Buy 10 Lbs and get 1 Lb FREE. (Fresh or Vacuum Packed then Frozen)</p>
+<p>Commercial Bulk buy: 40 Lbs of Jumbo Split Wings</p>
+<ul>
+<li><span>Fresh chicken wings</span></li>
+<li>Bone-in</li>
+<li>Random sized portions</li>
+<li>HMA Certified</li>
+<li>100% Halal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bone</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>in</s:tag>
+    <s:tag>jumbo</s:tag>
+    <s:tag>on</s:tag>
+    <s:tag>skin</s:tag>
+    <s:tag>split</s:tag>
+    <s:tag>wing</s:tag>
+    <s:tag>wings</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593349689395</id>
+      <title>2lb / Fresh</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>22355 - Butcher Shoppe</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593349689395</id>
+      <title>11lbs / Fresh - Halal</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>230</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593349689395</id>
+      <title>40lbs / Fresh - Halal</title>
+      <s:price currency="CAD">153.99</s:price>
+      <s:sku>12940</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4593346969651</id>
+    <published>2020-10-13T11:58:07-04:00</published>
+    <updated>2020-10-13T11:58:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/medium-split"/>
+    <title>Medium Split Wings</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sargent Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/imageService_2_ebc751d0-5080-49a1-a93e-27a43be20b5d.jpg?v=1594057742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sargent Farms<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            19.99 - 149.99
+            <a href="https://www.meatntaters.ca/products/medium-split">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Lbs of Medium Split Wings<br> Buy 10 Lbs and get 1 Lb FREE. (Fresh or Vacuum Packed then Frozen)</p>
+<p>Commercial Bulk Buy:<br>40 Lbs of Medium Split Wings</p>
+<ul>
+<li><span>Fresh chicken wings</span></li>
+<li>Bone-in</li>
+<li>Random sized portions</li>
+<li>HMA Certified</li>
+<li>100% Halal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bone</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>jumbo</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>skin</s:tag>
+    <s:tag>split</s:tag>
+    <s:tag>wing</s:tag>
+    <s:tag>wings</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593346969651</id>
+      <title>3.5lbs / Fresh - Halal</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>228</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593346969651</id>
+      <title>11lbs / Fresh - Halal</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>228</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593346969651</id>
+      <title>40lbs / Fresh - Halal</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku>12840</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593346969651</id>
+      <title>40lbs / Frozen</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku>22320 - Butcher Shoppe</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4593341562931</id>
+    <published>2020-10-13T11:58:07-04:00</published>
+    <updated>2020-10-13T11:58:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/chicken-drumsticks"/>
+    <title>Chicken Drumsticks</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sargent Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/frozen-chicken-drumsticks-500x500_474ca8aa-4060-4b8d-b50a-f175460a7579.jpg?v=1594049888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sargent Farms<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            3.59 - 35.99
+            <a href="https://www.meatntaters.ca/products/chicken-drumsticks">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Lbs of Chicken Drumsticks<br> Buy 10 Lbs and get 1 Lb FREE. (Fresh or Vacuum Packed then Frozen)</p>
+<ul>
+<li>F<span>resh chicken drumsticks</span>
+</li>
+<li>Bone-in, skin on</li>
+<li>Random sized portions</li>
+<li>HMA Certified</li>
+<li>100% Halal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bone</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>drumstick</s:tag>
+    <s:tag>drumsticks</s:tag>
+    <s:tag>in</s:tag>
+    <s:tag>on</s:tag>
+    <s:tag>skin</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593341562931</id>
+      <title>1lb / Fresh</title>
+      <s:price currency="CAD">3.59</s:price>
+      <s:sku>278</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593341562931</id>
+      <title>11lbs / Fresh</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>278</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4593338810419</id>
+    <published>2020-10-13T11:58:07-04:00</published>
+    <updated>2020-10-13T11:58:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/bone-in-thighs"/>
+    <title>Chicken Thighs (Bone-In)</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Halendas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/thigh_600x_776ec03e-0621-4023-88e8-358dc919580e.jpg?v=1607054120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halendas<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            3.99 - 38.99
+            <a href="https://www.meatntaters.ca/products/bone-in-thighs">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Lbs of Chicken Thighs (Bone-In)<br> Buy 10 Lbs and get 1 Lb FREE. (Fresh or Vacuum Packed then Frozen)</p>
+<ul>
+<li>Fresh chicken thigh</li>
+<li>Bone-in, skin on</li>
+<li>Random sized portions</li>
+<li>HMA Certified</li>
+<li>100% Halal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bone</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>in</s:tag>
+    <s:tag>on</s:tag>
+    <s:tag>skin</s:tag>
+    <s:tag>thigh</s:tag>
+    <s:tag>thighs</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593338810419</id>
+      <title>1lb / Fresh</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>Halendas</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593338810419</id>
+      <title>11lbs / Fresh</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>Halendas</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593338810419</id>
+      <title>11lbs / Fresh (Halal)</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>Sargent - 286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4593164255283</id>
+    <published>2020-10-13T11:58:06-04:00</published>
+    <updated>2020-10-13T11:58:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/lean-ground-chicken-1"/>
+    <title>Lean Ground Chicken (Halal)</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sargent Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Ground-Chicken-2-removebg-preview.png?v=1594058023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sargent Farms<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            19.99 - 42.99
+            <a href="https://www.meatntaters.ca/products/lean-ground-chicken-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Lbs of Lean Ground Chicken <br> Buy 10 Lbs and get 1 Lb FREE. (Fresh or Vacuum Packed then Frozen)</p>
+<ul>
+<li>Fresh Lean Ground </li>
+<li>Half Breast / Half Thigh </li>
+<li>HMA Certified</li>
+<li>100% Halal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boneless</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>ground</s:tag>
+    <s:tag>ground chicken</s:tag>
+    <s:tag>lean</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593164255283</id>
+      <title>11lbs / Fresh (Large)</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>260</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593164255283</id>
+      <title>4.4lbs / Fresh (Large)</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>260</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4593156816947</id>
+    <published>2020-10-13T11:58:06-04:00</published>
+    <updated>2020-10-13T11:58:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/boneless-chicken-breasts"/>
+    <title>Chicken Breasts (Boneless)</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sargent Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Raw-Chicken-Breast.jpg?v=1594047012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sargent Farms<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            5.29 - 269.99
+            <a href="https://www.meatntaters.ca/products/boneless-chicken-breasts">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Lbs of Boneless Chicken Breasts (<span>8-10oz </span>Medium &amp; <span>12-14oz</span> Large) <br> Buy 10 Lbs and get 1 Lb FREE. (Fresh or Frozen)<br> Boneless 8-10oz Medium Chicken breast (18-22pcs per 11 Lb Box)<br> Boneless <span>12-14oz </span>Large Chicken breast (10-15pcs per 11 Lb Box)</p>
+<p>Commercial Bulk Buy:<br> Boneless 8-10oz Medium Chicken breast (105-110pcs per 55 Lb Box)<br> Boneless 12-14oz Large Chicken breast (10-15pcs per 55 Lb Box)</p>
+<ul>
+<li>Fresh Chicken Breasts</li>
+<li><span>Boneless, skinless</span></li>
+<li>Random sized portions</li>
+<li>HMA Certified</li>
+<li>100% Halal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boneless</s:tag>
+    <s:tag>breast</s:tag>
+    <s:tag>breasts</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>chicken breast</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593156816947</id>
+      <title>1lb / 14-16oz Fresh (Large)</title>
+      <s:price currency="CAD">5.29</s:price>
+      <s:sku>halendes</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593156816947</id>
+      <title>3.75lbs / 8-10oz Fresh (Medium) (Halal)</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593156816947</id>
+      <title>8.8lbs / 4-6oz (IQF)</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>Erie - 82868</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593156816947</id>
+      <title>11lbs / 12-14oz Fresh (Large) (Halal)</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593156816947</id>
+      <title>11lbs / 8-10oz Fresh (Medium) (Halal)</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku>204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593156816947</id>
+      <title>55lbs / 12-14oz Fresh (Large) (Halal)</title>
+      <s:price currency="CAD">259.99</s:price>
+      <s:sku>802</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4593156816947</id>
+      <title>55lbs / 8-10oz Fresh (Medium) (Halal)</title>
+      <s:price currency="CAD">269.99</s:price>
+      <s:sku>804</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4592910860339</id>
+    <published>2020-10-13T11:58:05-04:00</published>
+    <updated>2020-10-13T11:58:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/chicken-quarter-leg"/>
+    <title>Chicken Quarter Leg</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sargent Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/legquarters_600x_6e8476e1-5961-45bd-80f9-c409fcfceb1c.jpg?v=1594050008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sargent Farms<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            2.69 - 85.99
+            <a href="https://www.meatntaters.ca/products/chicken-quarter-leg">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Lbs of Bone-In Breast (Medium)<br> Buy 10 Lbs and get 1 Lb FREE. (Fresh)</p>
+<p><span>Commercial Bulk Buy:</span><br><span>55</span><span> Lbs of Chicken Drumsticks (Medium) 50-60pcs<br>55 Lbs of Chicken Drumsticks (Large) 30-40pcs</span></p>
+<ul>
+<li>Fresh chicken legs</li>
+<li>Bone-in, skin on</li>
+<li>Random sized portions</li>
+<li>HMA Certified</li>
+<li>100% Halal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chicken</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>Leg</s:tag>
+    <s:tag>legs</s:tag>
+    <s:tag>quarter</s:tag>
+    <s:tag>quarters</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4592910860339</id>
+      <title>1lb / Fresh (Large)</title>
+      <s:price currency="CAD">2.69</s:price>
+      <s:sku>227</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4592910860339</id>
+      <title>1lb / Fresh (Medium)</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>262</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4592910860339</id>
+      <title>11lbs / Fresh (Large)</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>227</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4592910860339</id>
+      <title>11lbs / Fresh (Medium)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>262</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4592910860339</id>
+      <title>51lbs / Fresh (Large)</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4592910860339</id>
+      <title>51lbs / Fresh (Medium)</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku>118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4592910860339</id>
+      <title>5lb / Fresh (Medium)</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>262</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4591034728499</id>
+    <published>2020-07-07T13:37:53-04:00</published>
+    <updated>2020-07-07T13:37:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/stuffed-chicken-breast"/>
+    <title>Stuffed Chicken Breast</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sysco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Broccoli-Cheese-Stuffed-Chicken-Breasts-3-removebg-preview.jpg?v=1593539683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sysco<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Broccoli &amp; Cheese Stuffed Chicken Breast - 4oz - 24 Pack<br> Cordon Bleu Stuffed Chicken - 4 oz - 24 Pack<br> Chicken Stuffed Kiev - 4 oz - 24 Pack<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asiago</s:tag>
+    <s:tag>boneless</s:tag>
+    <s:tag>breaded</s:tag>
+    <s:tag>breast</s:tag>
+    <s:tag>breasts</s:tag>
+    <s:tag>broccoli</s:tag>
+    <s:tag>cheese</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>Cordon Bleu</s:tag>
+    <s:tag>Kiev</s:tag>
+    <s:tag>Red Pepper</s:tag>
+    <s:tag>stuffed</s:tag>
+    <s:tag>Stuffed Chicken</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4591034728499</id>
+      <title>4oz x 24 / Broccoli &amp; Cheese</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku>2630950</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4591034728499</id>
+      <title>4oz x 24 / Cordon Bleu</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku>2630964</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4591034728499</id>
+      <title>4oz x 24 / Chicken Kiev</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku>2630964</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4590221230131</id>
+    <published>2020-07-07T13:37:43-04:00</published>
+    <updated>2020-07-07T13:37:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/chicken-hot-dog-7"/>
+    <title>7&quot; Chicken Hot Dog</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sacks Food Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/HotDogiStock_000022198503_Medium_f2cc1ba2-e551-4bed-82b9-198d9cc678bf.jpg?v=1604694908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sacks Food Co<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            4.99 - 24.99
+            <a href="https://www.meatntaters.ca/products/chicken-hot-dog-7">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chicken Hot Dog 7'' (Pack of 10) - 900 grams (Halal)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>chicken</s:tag>
+    <s:tag>hot dog</s:tag>
+    <s:tag>hot dogs</s:tag>
+    <s:tag>Sausages</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4590221230131</id>
+      <title>1 x 10 / Halal</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>93155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4590221230131</id>
+      <title>6 x 10 / Halal</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>93155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4509873569843</id>
+    <published>2020-04-23T12:56:32-04:00</published>
+    <updated>2020-04-23T12:56:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/chicken-nuggets"/>
+    <title>Chicken Nuggets</title>
+    <s:type>Value</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/nuggets-shutterstock_crop-removebg-preview.jpg?v=1590524564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Golden Maple Chicken Nuggets - 4kg Per Box (Frozen)</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>breaded</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>fingers</s:tag>
+    <s:tag>Nuggets</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509873569843</id>
+      <title>4kg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>93323</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4509873438771</id>
+    <published>2020-04-23T12:56:26-04:00</published>
+    <updated>2020-04-23T12:56:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/lean-ground-chicken-gluten-free"/>
+    <title>Extra Lean Ground Chicken</title>
+    <s:type>Value</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Ground-Chicken_grande_134f93f9-6919-45d7-8b89-67d2d4309571.jpg?v=1587827873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Extra Lean Ground Chicken (10lbs) - (Gluten Free &amp; Frozen)
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>ground</s:tag>
+    <s:tag>lean</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509873438771</id>
+      <title>10lbs</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>93060</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

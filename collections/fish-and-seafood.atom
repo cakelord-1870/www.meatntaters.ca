@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.meatntaters.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.meatntaters.ca/collections/fish-and-seafood.atom"/>
+  <title>Meat n&apos; Taters Delivery</title>
+  <updated>2021-03-19T00:06:49-04:00</updated>
+  <author>
+    <name>Meat n&apos; Taters Delivery</name>
+  </author>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4565335146547</id>
+    <published>2021-03-19T00:06:49-04:00</published>
+    <updated>2021-03-19T00:06:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/lobster-tails"/>
+    <title>Lobster Baby Boiled</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Rock-Lobster.jpg?v=1616127029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lobster Baby Boiled (10-14oz) 10lbs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>lobster</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4565335146547</id>
+      <title>10 lbs</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku>SEA042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484841523</id>
+    <published>2020-12-02T15:29:18-05:00</published>
+    <updated>2020-12-02T15:29:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/basa-fillet"/>
+    <title>Basa Fillets</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/45-basa.jpg?v=1597776883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            7.99 - 74.99
+            <a href="https://www.meatntaters.ca/products/basa-fillet">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Basa In A Variety Of Sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basa</s:tag>
+    <s:tag>fillet</s:tag>
+    <s:tag>fish</s:tag>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484841523</id>
+      <title>2lbs / Basa Fillet 7-9oz</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>sea007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484841523</id>
+      <title>30lb / Basa Fillet 20oz</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>fi3020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484841523</id>
+      <title>30lb / Basa Fillet 18oz</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>fi3018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484841523</id>
+      <title>30lb / Basa Fillet 16oz</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>fi3016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484841523</id>
+      <title>6 x 5lbs / Basa 8-10 Piece</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>fi30810</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484874291</id>
+    <published>2020-12-02T15:19:51-05:00</published>
+    <updated>2020-12-02T15:19:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/salmon-smoked"/>
+    <title>Norwegian Smoked Steelhead Salmon</title>
+    <s:type>grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/NF-Smoked-Steelhead-Salmon-500g_3D_RGB.jpg?v=1597776894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>grocery<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium Norwegian Smoked Steelhead Salmon 400g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fish</s:tag>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:tag>salmon</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>smoked</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484874291</id>
+      <title>400g / Premium Smoked Steelhead Salmon</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>FroFis07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4728397365299</id>
+    <published>2020-12-02T15:13:12-05:00</published>
+    <updated>2020-12-02T15:13:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/calamari-rings"/>
+    <title>Calamari Rings</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Calamari_U_10_Tubes_503334ba-0bbe-49ba-95bb-ba53176f2136.jpg?v=1606939995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Calamari Rings</p>
+<p>2lbs Box (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>calamari</s:tag>
+    <s:tag>Calamari Rings</s:tag>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728397365299</id>
+      <title>2lbs Box</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>sea034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4509956440115</id>
+    <published>2020-12-02T15:10:08-05:00</published>
+    <updated>2020-12-02T15:10:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/calamari-u-10-tubes"/>
+    <title>Calamari Tubes</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Calamari_U_10_Tubes.jpg?v=1588618610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Calamari U-10 Tubes
+<p>2lbs Box (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>calamari</s:tag>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509956440115</id>
+      <title>2lbs Box</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>sea035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4721147838515</id>
+    <published>2020-11-10T13:15:35-05:00</published>
+    <updated>2020-11-10T13:15:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/wyse-bay-jumbo-scallops-10lbs"/>
+    <title>Ocean Bay Scallops</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/viking-power-big-boy-premium-scallops-01-web_1024x1024_2x-removebg-preview.png?v=1605032191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            54.99 - 339.99
+            <a href="https://www.meatntaters.ca/products/wyse-bay-jumbo-scallops-10lbs">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Choose 5lbs of Bay Scallops 80/120 or 10lbs of jumbo scallops</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:tag>poke</s:tag>
+    <s:tag>tuna</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4721147838515</id>
+      <title>5lbs / Small (80-120)</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>a1 - sea036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4721147838515</id>
+      <title>10lbs / Jumbo (80)</title>
+      <s:price currency="CAD">339.99</s:price>
+      <s:sku>8110003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484972595</id>
+    <published>2020-11-07T21:38:54-05:00</published>
+    <updated>2020-11-07T21:38:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/calamari-breaded"/>
+    <title>Breaded Calamari</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>Sacks Food Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/27.jpg?v=1604803078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sacks Food Co<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            8.99 - 14.99
+            <a href="https://www.meatntaters.ca/products/calamari-breaded">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Iber Cook Lightly Floured Calamari 300g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>calamari</s:tag>
+    <s:tag>deveined</s:tag>
+    <s:tag>fish</s:tag>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:tag>peeled</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>squid</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484972595</id>
+      <title>300g / Iber Cook Lightly Floured Calamari</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484972595</id>
+      <title>2lbs / Breaded Calamari</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>sea069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720327622707</id>
+    <published>2020-11-07T19:32:47-05:00</published>
+    <updated>2020-11-07T19:32:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/copy-of-ahi-tuna-steaks-10lbs"/>
+    <title>Yellow Fin Tuna Poke</title>
+    <s:type>Value</s:type>
+    <s:vendor>Costco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/imageService_4_0215109b-0e8d-4d88-97d2-0cb3deeb70c3.jpg?v=1604795568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Costco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            229.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yellow Fin Tuna Poke (10lbs) 1.5cm thick </p>
+<p><strong>***</strong><span>This Item is Imported might take 4-6 Days to bring In.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:tag>poke</s:tag>
+    <s:tag>tuna</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720327622707</id>
+      <title>10lbs</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku>1387185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527762407475</id>
+    <published>2020-05-12T10:20:13-04:00</published>
+    <updated>2020-05-12T10:20:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/atlantic-salmon-fillet"/>
+    <title>Skin-On Salmon</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/imageService_a535f9f0-5e23-4b59-8525-38cf33d6b711.jpg?v=1604525866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Atlantic Skin-On Salmon Full Case (3-5lbs)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:tag>salmon</s:tag>
+    <s:tag>Seafood</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527762407475</id>
+      <title>3-5lbs</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>51710</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4535756193843</id>
+    <published>2020-05-09T00:19:04-04:00</published>
+    <updated>2020-05-09T00:19:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/yellowfin-tuna-steak"/>
+    <title>Ahi Tuna Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>Costco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Seafood_Yellowfin_Tuna_Steak.jpg?v=1604795653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Costco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            219.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ahi Tuna Steaks - 10lbs - 26-27 Pieces per case 6oz each</p>
+<p><strong>***</strong>This Item is Imported might take 4-6 Days to bring In.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:tag>poke</s:tag>
+    <s:tag>tuna</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4535756193843</id>
+      <title>6oz x 26</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>1430649</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4512273793075</id>
+    <published>2020-04-25T10:30:55-04:00</published>
+    <updated>2020-04-25T10:30:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/wild-pacific-salmon-fillets"/>
+    <title>Northern Salmon (Frozen)</title>
+    <s:type>Value</s:type>
+    <s:vendor>Sacks Food Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/New-dawn-for-gas-to-feed-protein-as-Calysta-flags-up-2017-production-start-date.jpg?v=1606406073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sacks Food Co<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            11.49 - 44.99
+            <a href="https://www.meatntaters.ca/products/wild-pacific-salmon-fillets">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>7/8 Piece (2oz) or 3-4lb pc or 5oz x16 box (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:tag>salmon</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4512273793075</id>
+      <title>2oz x 7/8 / Frozen</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>Sacks Food Co</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4512273793075</id>
+      <title>3-4lbs / Frozen</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>a1-sea087</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4512273793075</id>
+      <title>5oz x 16 / Frozen</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>a1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

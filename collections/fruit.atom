@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.meatntaters.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.meatntaters.ca/collections/fruit.atom"/>
+  <title>Meat n&apos; Taters Delivery</title>
+  <updated>2021-01-13T15:14:20-05:00</updated>
+  <author>
+    <name>Meat n&apos; Taters Delivery</name>
+  </author>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4534282420275</id>
+    <published>2021-01-13T15:14:20-05:00</published>
+    <updated>2021-01-13T15:14:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/clementines"/>
+    <title>Clementines</title>
+    <s:type>Fruit</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Fruit_Citrus_Clementines.jpg?v=1588892274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Fruit<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>5 Lb Package of Clementines</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cirtus</s:tag>
+    <s:tag>Clementines</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>ORANGES</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4534282420275</id>
+      <title>Clementines / 5 Lbs</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>101309</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4575973703731</id>
+    <published>2021-01-13T15:13:08-05:00</published>
+    <updated>2021-01-13T15:13:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/avpcadoes"/>
+    <title>Avocadoes</title>
+    <s:type>Produce - Avocadoes</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/food-avocado-large-bigstock.jpg?v=1591992443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Produce - Avocadoes<br>
+        <strong>Price: </strong>
+            5.99 - 104.39
+            <a href="https://www.meatntaters.ca/products/avpcadoes">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium and Large Avocadoes by piece or box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Avocadoe</s:tag>
+    <s:tag>Avocadoes</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>Tropic Fruit</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4575973703731</id>
+      <title>Avocadoes / 6 Pcs</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>101906</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4575973703731</id>
+      <title>Avocadoe Box / 40 Piece (Medium)</title>
+      <s:price currency="CAD">104.39</s:price>
+      <s:sku>101902</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4575973703731</id>
+      <title>Avocadoe Box / 12 Pieces (Large)</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>101906</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4575566364723</id>
+    <published>2021-01-13T15:11:44-05:00</published>
+    <updated>2021-01-13T15:11:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/honeydews-1"/>
+    <title>Honeydews</title>
+    <s:type>Produce - Honeydews</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Honeydew-Melon-honeydew-melon-35247495-849-565.jpg?v=1591938813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Produce - Honeydews<br>
+        <strong>Price: </strong>
+            4.99 - 34.39
+            <a href="https://www.meatntaters.ca/products/honeydews-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Honeydews by piece or box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fruit</s:tag>
+    <s:tag>Honeydew</s:tag>
+    <s:tag>Honeydews</s:tag>
+    <s:tag>Melons</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4575566364723</id>
+      <title>Honeydews / 1 Piece</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>101636</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4575566364723</id>
+      <title>Honeydews / 6 Pieces Box</title>
+      <s:price currency="CAD">34.39</s:price>
+      <s:sku>101636</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4509078585395</id>
+    <published>2021-01-13T15:10:28-05:00</published>
+    <updated>2021-01-13T15:10:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/cantaloupes"/>
+    <title>Cantaloupes</title>
+    <s:type>Produce - Cantaloupes</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Melons_Cantaloupe_Hero_84e89ecc-5add-4998-92c7-0777c47b57e6.jpg?v=1587596086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Produce - Cantaloupes<br>
+        <strong>Price: </strong>
+            4.99 - 60.65
+            <a href="https://www.meatntaters.ca/products/cantaloupes">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cantaloupes by piece or box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cantalope</s:tag>
+    <s:tag>Cantaloupe</s:tag>
+    <s:tag>Cantaloupes</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>Melons</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509078585395</id>
+      <title>Cantaloupes / 1 Piece</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>101617</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509078585395</id>
+      <title>Cantaloupe Box / 12 Pieces</title>
+      <s:price currency="CAD">60.65</s:price>
+      <s:sku>101617</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4509091659827</id>
+    <published>2021-01-13T12:50:17-05:00</published>
+    <updated>2021-01-13T12:50:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/grapes"/>
+    <title>Grapes</title>
+    <s:type>Fruit</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Grapes_Red_Seedless.jpg?v=1588733425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Fruit<br>
+        <strong>Price: </strong>
+            3.99 - 72.99
+            <a href="https://www.meatntaters.ca/products/grapes">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2lb of Black, Green or Red Grapes or Buy 18 Lb Grape Boxes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black grape</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>grapes</s:tag>
+    <s:tag>green grape</s:tag>
+    <s:tag>red grape</s:tag>
+    <s:tag>seedless</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509091659827</id>
+      <title>Green Ex.Fancy / 2 Lbs</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>101501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509091659827</id>
+      <title>Red Flame / 2 Lbs</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>101510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509091659827</id>
+      <title>Black Seedless / 1 LB</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509091659827</id>
+      <title>Green Ex.Fancy / 18 LB Box</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>101501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509091659827</id>
+      <title>Red Flame / 18 LB Box</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku>101510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509091659827</id>
+      <title>Black Seedless / 18 LB Box</title>
+      <s:price currency="CAD">71.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4576135249971</id>
+    <published>2021-01-13T12:41:46-05:00</published>
+    <updated>2021-01-13T12:41:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/pinapples"/>
+    <title>Pineapples</title>
+    <s:type>produce - Pineapple</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/6000200198506.jpg?v=1592678318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>produce - Pineapple<br>
+        <strong>Price: </strong>
+            3.99 - 29.39
+            <a href="https://www.meatntaters.ca/products/pinapples">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pineapples by piece and box.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fruit</s:tag>
+    <s:tag>Pinapple</s:tag>
+    <s:tag>Pinapples</s:tag>
+    <s:tag>Pineapple</s:tag>
+    <s:tag>Pineapples</s:tag>
+    <s:tag>Tropic Fruit</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4576135249971</id>
+      <title>Pineapple / 1 Piece</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>101966</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4576135249971</id>
+      <title>Pineapple / 6 Pieces Box</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>101966</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4509078454323</id>
+    <published>2021-01-13T12:40:10-05:00</published>
+    <updated>2021-01-13T12:40:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/lemons"/>
+    <title>Lemons</title>
+    <s:type>Fruit</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Lemons_Fancy_Hero_16bba234-c609-4d66-962d-398731ccda4b.jpg?v=1587596080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Fruit<br>
+        <strong>Price: </strong>
+            1.18 - 63.99
+            <a href="https://www.meatntaters.ca/products/lemons">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Lb Bag or 18 Lb Box of Meyer Lemons<br> Medium and Large Lemons by piece and Box </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cirtus</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>lemon</s:tag>
+    <s:tag>lemons</s:tag>
+    <s:tag>meyer</s:tag>
+    <s:tag>meyer lemons</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509078454323</id>
+      <title>Lemons / 12 Pcs</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>101334</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509078454323</id>
+      <title>Lemons / Medium</title>
+      <s:price currency="CAD">1.18</s:price>
+      <s:sku>101339</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509078454323</id>
+      <title>Lemon Box / 100 x Small</title>
+      <s:price currency="CAD">54.38</s:price>
+      <s:sku>101334</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509078454323</id>
+      <title>Lemon Box / 75 x Medium</title>
+      <s:price currency="CAD">63.99</s:price>
+      <s:sku>101339</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509078454323</id>
+      <title>Meyer Lemons / 1 Lb</title>
+      <s:price currency="CAD">4.13</s:price>
+      <s:sku>101395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509078454323</id>
+      <title>Meyer Lemons Box / 18 Lb</title>
+      <s:price currency="CAD">53.99</s:price>
+      <s:sku>101395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4509078487091</id>
+    <published>2021-01-13T12:34:34-05:00</published>
+    <updated>2021-01-13T12:34:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/limes"/>
+    <title>Limes</title>
+    <s:type>Fruit</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Limes_Fancy_Hero_4c5f65ad-54be-4b7b-b8a5-0bff671f7df5.jpg?v=1587596082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Fruit<br>
+        <strong>Price: </strong>
+            3.99 - 50.00
+            <a href="https://www.meatntaters.ca/products/limes">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small and Large Lime pieces and boxes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cirtus</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>lime</s:tag>
+    <s:tag>limes</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509078487091</id>
+      <title>Limes / 12 Pcs</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>101348</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509078487091</id>
+      <title>Limes / Small</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509078487091</id>
+      <title>Limes Box / 175 Small Pieces</title>
+      <s:price currency="CAD">48.15</s:price>
+      <s:sku>101331</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509078487091</id>
+      <title>Limes Box / 48 Large Pieces</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>101348</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4576077381683</id>
+    <published>2021-01-13T12:33:19-05:00</published>
+    <updated>2021-01-13T12:33:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/kiwi-1"/>
+    <title>Kiwi</title>
+    <s:type>Produce - Kiwi</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/kiwi-jumbo.jpg?v=1592594748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Produce - Kiwi<br>
+        <strong>Price: </strong>
+            3.99 - 60.65
+            <a href="https://www.meatntaters.ca/products/kiwi-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kiwi by piece and box.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fruit</s:tag>
+    <s:tag>Kiwi</s:tag>
+    <s:tag>Tropic Fruit</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4576077381683</id>
+      <title>Kiwi / 600g</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>101938</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4576077381683</id>
+      <title>Kiwi / 1kg</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>101940</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4576077381683</id>
+      <title>Kiwi / 75 Pieces Box</title>
+      <s:price currency="CAD">60.65</s:price>
+      <s:sku>101938</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4508921790515</id>
+    <published>2021-01-13T10:58:14-05:00</published>
+    <updated>2021-01-13T10:58:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/raspberries"/>
+    <title>Raspberries (Frozen)</title>
+    <s:type>Produce</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Berries_Raspberries_Hero_12a484b9-7327-46e9-952b-6ad695dacb9f.jpg?v=1587596076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Produce<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1kg Raspberries</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fruit</s:tag>
+    <s:tag>raspberries</s:tag>
+    <s:tag>raspberry</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4508921790515</id>
+      <title>Raspberries / 1 Kg</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>halendes</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4737922465843</id>
+    <published>2021-01-13T09:06:08-05:00</published>
+    <updated>2021-01-13T09:06:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/apple-fresh"/>
+    <title>Apple (Fresh)</title>
+    <s:type>Fruit</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Apples_Royal_Gala_e56c5e7e-777f-4c75-bd71-22f879f87fc2.jpg?v=1610547009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Fruit<br>
+        <strong>Price: </strong>
+            13.99 - 16.99
+            <a href="https://www.meatntaters.ca/products/apple-fresh">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Delicious Extra Fancy, Royal Gala, Granny Smith Green (10lbs Bag)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple</s:tag>
+    <s:tag>apples</s:tag>
+    <s:tag>cript</s:tag>
+    <s:tag>delicious</s:tag>
+    <s:tag>empire</s:tag>
+    <s:tag>fresh apples</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>fuji</s:tag>
+    <s:tag>gala</s:tag>
+    <s:tag>golden</s:tag>
+    <s:tag>granny</s:tag>
+    <s:tag>honey</s:tag>
+    <s:tag>ida</s:tag>
+    <s:tag>lady</s:tag>
+    <s:tag>mutsu</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>royal</s:tag>
+    <s:tag>smith</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4737922465843</id>
+      <title>Red Delicious Extra Fancy / 10lbs</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4737922465843</id>
+      <title>Royal Gala / 10lbs</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4737922465843</id>
+      <title>Granny Smith Green / 10lbs</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4737922465843</id>
+      <title>Golden Delicious / 10lbs</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4728389042227</id>
+    <published>2020-12-02T14:52:53-05:00</published>
+    <updated>2020-12-02T14:52:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/avocadoe-guacamole"/>
+    <title>Avocado Guacamole (Frozen)</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/imageService_b43b916c-0ed9-429f-b451-290f1a5a6d1c.jpg?v=1606938742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Avocado Guacamole (Frozen) 1lb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Avocadoe</s:tag>
+    <s:tag>Avocadoes</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728389042227</id>
+      <title>1 lb</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4728388649011</id>
+    <published>2020-12-02T14:47:56-05:00</published>
+    <updated>2020-12-02T14:47:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/blackberries-frozen"/>
+    <title>Blackberries (Frozen)</title>
+    <s:type>Fruit</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Berries_Blackberries_Hero_9210bb89-32e0-46d3-9ea9-c1a137ef9e7f.jpg?v=1606938479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Fruit<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">1kg</span> of Blackberries </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berries</s:tag>
+    <s:tag>blackberries</s:tag>
+    <s:tag>blackberry</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4728388649011</id>
+      <title>Blackberries / 1 kg</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>101200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484710451</id>
+    <published>2020-11-24T15:34:21-05:00</published>
+    <updated>2020-11-24T15:34:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/iqf-fruit-cherries"/>
+    <title>Cherries Sweet (Frozen)</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>Halendas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/6442-6343_2000x2000_e1931285-9c96-4ce7-8bf4-d9c21eba5dbb.jpg?v=1597776707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halendas<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherries Sweet (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>commercial fruit</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>other</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484710451</id>
+      <title>1 Kg / Cherries Sweet</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>frofruc01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484677683</id>
+    <published>2020-11-24T15:34:21-05:00</published>
+    <updated>2020-11-24T15:34:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/iqf-fruit-raspberries"/>
+    <title>Raspberries (Frozen)</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/6525-6524_2000x2000_63e60299-9e56-4a10-98a7-64711aaeadd9.jpg?v=1597776694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Raspberries (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>commercial fruit</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>other</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484677683</id>
+      <title>1 Kg / Raspberries</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>fro128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484644915</id>
+    <published>2020-11-24T15:34:20-05:00</published>
+    <updated>2020-11-24T15:34:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/iqf-fruit-peaches"/>
+    <title>Peaches (Frozen)</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/6495-6496_1024x1024_a70d381c-ea5b-42a2-b3ee-98eb7fa31ec6.jpg?v=1597776687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sliced Peaches (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>commercial fruit</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>other</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484644915</id>
+      <title>1 Kg / Peaches</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484612147</id>
+    <published>2020-11-24T15:34:19-05:00</published>
+    <updated>2020-11-24T15:34:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/iqf-fruit-blackberries"/>
+    <title>Blackberries (Frozen)</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>Halendas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/31430-mures-surgelees-1-kg.jpg?v=1597776670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halendas<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blackberries (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>commercial fruit</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>other</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484612147</id>
+      <title>1 Kg / Blackberries</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>fro120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484579379</id>
+    <published>2020-11-24T15:34:19-05:00</published>
+    <updated>2020-11-24T15:34:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/iqf-fruit-cranberries"/>
+    <title>Cranberries (Frozen)</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/6460-6461_1024x1024_8ff15903-a2af-4fec-b463-c325abf44bfe.jpg?v=1597776564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cranberries (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>commercial fruit</s:tag>
+    <s:tag>cranberry</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>other</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484579379</id>
+      <title>1 Kg / Cranberries</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>halendes</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484546611</id>
+    <published>2020-11-24T15:34:18-05:00</published>
+    <updated>2020-11-24T15:34:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/iqf-fruit-strawberry"/>
+    <title>Strawberry (Frozen)</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>halendes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/6540-6541-6538-6542_1024x1024_8d22b39f-d050-4107-8b5e-5d207dab0511.jpg?v=1597776554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>halendes<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Strawberry (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>commercial fruit</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>other</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484546611</id>
+      <title>1 Kg / Strawberry</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>halendes</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484513843</id>
+    <published>2020-11-24T15:34:18-05:00</published>
+    <updated>2020-11-24T15:34:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/iqf-fruit-pinapple"/>
+    <title>Pineapple Chunks (Frozen)</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/imageService_700e7a5c-7335-4319-9551-ab72fe373cb0.jpg?v=1597776540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pineapple Chunks</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>commercial fruit</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>other</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484513843</id>
+      <title>1 Kg / Pineapple Chunks</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>halendes</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484481075</id>
+    <published>2020-11-24T15:34:17-05:00</published>
+    <updated>2020-11-24T15:34:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/iqf-fruit-mango"/>
+    <title>Mango Chunks (Frozen)</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/31432-mangues-en-gros-morceaux-surgelees-1-kg.jpg?v=1597776529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mango Chunks (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>commercial veg</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>veg</s:tag>
+    <s:tag>vegetable</s:tag>
+    <s:tag>vegetables</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484481075</id>
+      <title>1 Kg / Mango Chunks</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484448307</id>
+    <published>2020-11-24T15:34:16-05:00</published>
+    <updated>2020-11-24T15:34:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/iqf-fruit-blueberry"/>
+    <title>Blueberry (Frozen)</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/6420-6421-6422_2000x2000_c442d057-2b4c-4ba0-b04f-054bb8c1ad71.jpg?v=1597776521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blueberry Whole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>commercial fruit</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>other</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484448307</id>
+      <title>1 Kg / Blueberry Whole</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484415539</id>
+    <published>2020-11-24T15:34:16-05:00</published>
+    <updated>2020-11-24T15:34:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/iqf-fruit-berrymix"/>
+    <title>Berry Mix (Frozen)</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/29654-melange-de-petits-fruits-surgele-1-kg.jpg?v=1597776506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Berry Mix (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>commercial fruit</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>other</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484415539</id>
+      <title>1 Kg / Berry Mix</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>fro118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484382771</id>
+    <published>2020-11-24T15:34:15-05:00</published>
+    <updated>2020-11-24T15:34:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/iqf-fruit-banana"/>
+    <title>Banana Sliced (Frozen)</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/6410-6411_600x600_2x_09e87198-2426-4b80-b7a2-c3132647370c.jpg?v=1597776482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            8.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Banana Sliced</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>commercial fruit</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>other</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484382771</id>
+      <title>1 Kg / Banana Sliced</title>
+      <s:price currency="CAD">8.49</s:price>
+      <s:sku>halendes</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484350003</id>
+    <published>2020-11-24T15:34:15-05:00</published>
+    <updated>2020-11-24T15:34:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/iqf-fruit-apple"/>
+    <title>Apple Slices (Frozen)</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>Halendas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/31428-pommes-tranchees-surgelees-1-kg.jpg?v=1597776469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halendas<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apple Slices</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>commercial fruit</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>other</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484350003</id>
+      <title>1 Kg / Apple Slices</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>halendes</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

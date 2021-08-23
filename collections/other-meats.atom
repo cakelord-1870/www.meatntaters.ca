@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.meatntaters.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.meatntaters.ca/collections/other-meats.atom"/>
+  <title>Meat n&apos; Taters Delivery</title>
+  <updated>2021-06-30T10:51:46-04:00</updated>
+  <author>
+    <name>Meat n&apos; Taters Delivery</name>
+  </author>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6577303912499</id>
+    <published>2021-06-30T10:51:46-04:00</published>
+    <updated>2021-06-30T10:51:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/lamb-burgers"/>
+    <title>Lamb Burgers</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Lamb-Burgers.jpg?v=1625064930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lamb Burgers 4oz - 12pc</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beyond</s:tag>
+    <s:tag>burgers</s:tag>
+    <s:tag>Lamb</s:tag>
+    <s:tag>meat</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6577303912499</id>
+      <title>4oz x 12</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>MEA185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527762669619</id>
+    <published>2021-03-19T00:20:22-04:00</published>
+    <updated>2021-03-19T00:20:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/lamp-kabob"/>
+    <title>Lamb Kabobs</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Lamb_Kabob.jpg?v=1588623216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">40 Kabobs - 2kg Total</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kabob</s:tag>
+    <s:tag>kabobs</s:tag>
+    <s:tag>Lamb</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527762669619</id>
+      <title>40 Pieces</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>RET-5004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484841523</id>
+    <published>2020-12-02T15:29:18-05:00</published>
+    <updated>2020-12-02T15:29:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/basa-fillet"/>
+    <title>Basa Fillets</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/45-basa.jpg?v=1597776883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            7.99 - 74.99
+            <a href="https://www.meatntaters.ca/products/basa-fillet">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Basa In A Variety Of Sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basa</s:tag>
+    <s:tag>fillet</s:tag>
+    <s:tag>fish</s:tag>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484841523</id>
+      <title>2lbs / Basa Fillet 7-9oz</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>sea007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484841523</id>
+      <title>30lb / Basa Fillet 20oz</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>fi3020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484841523</id>
+      <title>30lb / Basa Fillet 18oz</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>fi3018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484841523</id>
+      <title>30lb / Basa Fillet 16oz</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>fi3016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484841523</id>
+      <title>6 x 5lbs / Basa 8-10 Piece</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>fi30810</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484874291</id>
+    <published>2020-12-02T15:19:51-05:00</published>
+    <updated>2020-12-02T15:19:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/salmon-smoked"/>
+    <title>Norwegian Smoked Steelhead Salmon</title>
+    <s:type>grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/NF-Smoked-Steelhead-Salmon-500g_3D_RGB.jpg?v=1597776894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>grocery<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium Norwegian Smoked Steelhead Salmon 400g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fish</s:tag>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:tag>salmon</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>smoked</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484874291</id>
+      <title>400g / Premium Smoked Steelhead Salmon</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>FroFis07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644472160307</id>
+    <published>2020-12-02T13:01:42-05:00</published>
+    <updated>2020-12-02T13:01:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/canadian-frenched-lamb-loin-b-s"/>
+    <title>Lamb Loin Chop</title>
+    <s:type>Meat</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Loin-Chops-4-each-2-removebg-preview.png?v=1604858778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            14.99 - 29.99
+            <a href="https://www.meatntaters.ca/products/canadian-frenched-lamb-loin-b-s">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">New Zealand </span>Lamb Loin Chop - 8-12pcs (1kg) (Halal) (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>australian</s:tag>
+    <s:tag>chop</s:tag>
+    <s:tag>Lamb</s:tag>
+    <s:tag>loin</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644472160307</id>
+      <title>1kg / Loin Chop Ends</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>23524</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644472160307</id>
+      <title>1.15kg / Shoulder Chops</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527761424435</id>
+    <published>2020-11-25T20:01:49-05:00</published>
+    <updated>2020-11-25T20:01:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/sliced-turkey-bacon"/>
+    <title>Sliced Turkey Bacon</title>
+    <s:type>Value</s:type>
+    <s:vendor>Sysco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Turkey_Bacon.jpg?v=1588626172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sysco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sliced Turkey Bacon (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bacon</s:tag>
+    <s:tag>deli</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:tag>Turkey</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527761424435</id>
+      <title>11lbs</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>0288027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4722707038259</id>
+    <published>2020-11-17T13:35:22-05:00</published>
+    <updated>2020-11-17T13:35:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/alberta-lamb-racks"/>
+    <title>Lamb Racks</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Off The Bone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/unnamed__4_-removebg-preview_7b47a68f-23eb-4e6a-9539-5f12bcdb1b4b.jpg?v=1605638124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Off The Bone<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            32.99 - 34.99
+            <a href="https://www.meatntaters.ca/products/alberta-lamb-racks">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New Zealand Frenched, or Premium Frenched Rack Of Lamb (1.5-2lbs avg) <span data-mce-fragment="1">(Halal)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>frenched</s:tag>
+    <s:tag>Lamb</s:tag>
+    <s:tag>rack</s:tag>
+    <s:tag>racks</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4722707038259</id>
+      <title>1.5lbs avg / New Zealand</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>a1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4722707038259</id>
+      <title>1.5lbs avg / New Zealand (Premium)</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>a1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4585654845491</id>
+    <published>2020-11-10T12:32:06-05:00</published>
+    <updated>2020-11-10T12:32:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/bison-burgers-5oz"/>
+    <title>Bison Burgers</title>
+    <s:type>Value</s:type>
+    <s:vendor>Costco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/bison-burger4-1.jpg?v=1593007505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Costco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bison Burgers 4oz (Box of 40) </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Bison</s:tag>
+    <s:tag>burger</s:tag>
+    <s:tag>burgers</s:tag>
+    <s:tag>meat</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4585654845491</id>
+      <title>4oz x 40</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>281841</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4585645572147</id>
+    <published>2020-11-10T12:28:16-05:00</published>
+    <updated>2020-11-10T12:28:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/elk-burgers-5oz"/>
+    <title>Elk Burgers</title>
+    <s:type>Value</s:type>
+    <s:vendor>Costco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/organic_beef_burgers-removebg-preview.jpg?v=1593006406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Costco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elk Burgers 4oz (Box of 40)<br>
+High in protein, iron and B vitamins</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>burger</s:tag>
+    <s:tag>burgers</s:tag>
+    <s:tag>Elk</s:tag>
+    <s:tag>meat</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4585645572147</id>
+      <title>4oz x 40</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>963200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720748724275</id>
+    <published>2020-11-09T09:54:02-05:00</published>
+    <updated>2020-11-09T09:54:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/venison-ribeye-steaks-box-of-16"/>
+    <title>Venison Ribeye Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>Costco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/ribeyes-800x500-removebg-preview.png?v=1604933670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Costco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Venison Ribeye Steaks (Box of 16)<br>High in protein, iron and B vitamins <br>No antibiotics, growth stimulants, hormones or steroids</p>
+<p><strong>***</strong><span>This Item is Imported might take 4-6 Days to bring In.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Boar</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>ribeye</s:tag>
+    <s:tag>ribeyes</s:tag>
+    <s:tag>Wild Boar</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720748724275</id>
+      <title>4oz x 16</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>1254519</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720746430515</id>
+    <published>2020-11-09T09:42:58-05:00</published>
+    <updated>2020-11-09T09:42:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/venison-striploin-steaks-box-of-20"/>
+    <title>Venison Striploin Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>Costco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/The-Healthy-Butcher-100-percent-grassfed-red-deer-striploin-steak-above.jpg?v=1604933041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Costco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4oz Venison Striploin Steaks (Box of 16)<br>High in protein, iron and B vitamins <br>No antibiotics, growth stimulants, hormones or steroids</p>
+<p><strong>***</strong><span>This Item is Imported might take 4-6 Days to bring In.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Boar</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>striploin</s:tag>
+    <s:tag>Wild Boar</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720746430515</id>
+      <title>4oz x 16</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>1254520</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720745676851</id>
+    <published>2020-11-09T09:32:54-05:00</published>
+    <updated>2020-11-09T09:32:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/wild-boar-steak-cuts-box-of-20"/>
+    <title>Wild Boar Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>Costco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Photo1-768x1024-removebg-preview.png?v=1604932520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Costco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wild Boar Steak Cuts (Box of 20) <br>Raised on natural feed <br>No antibiotics, growth stimulants, hormones or steroids</p>
+<p><strong>***</strong><span>This Item is Imported might take 4-6 Days to bring In.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Boar</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>Wild Boar</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720745676851</id>
+      <title>4oz x 20</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>1254521</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720744890419</id>
+    <published>2020-11-09T09:31:33-05:00</published>
+    <updated>2020-11-09T09:31:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/wild-boar-rib-steaks-box-of-10"/>
+    <title>Wild Boar Rib Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>Costco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/53293-bifteck-de-cote-aa.jpg?v=1604932157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Costco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wild Boar Rib Steaks (Box of 10)<br>Raised on natural feed <br>No antibiotics, growth stimulants, hormones or steroids</p>
+<p><strong>***</strong><span>This Item is Imported might take 4-6 Days to bring In.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Boar</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>rib steak</s:tag>
+    <s:tag>Wild Boar</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720744890419</id>
+      <title>7oz x 10</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>9630206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720744169523</id>
+    <published>2020-11-09T09:31:32-05:00</published>
+    <updated>2020-11-09T09:31:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/wild-boar-striploin-steaks-box-of-20"/>
+    <title>Wild Boar Striploin Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>Costco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/wildboar.jpg?v=1604931763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Costco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wild Boar Striploin Steaks (Box of 20)  4oz<br>Raised on natural feed <br>No antibiotics, growth stimulants, hormones or steroids</p>
+<p><strong>***</strong><span>This Item is Imported might take 4-6 Days to bring In.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Boar</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>striploin</s:tag>
+    <s:tag>Wild Boar</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720744169523</id>
+      <title>4oz x 20</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>9630207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644484972595</id>
+    <published>2020-11-07T21:38:54-05:00</published>
+    <updated>2020-11-07T21:38:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/calamari-breaded"/>
+    <title>Breaded Calamari</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>Sacks Food Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/27.jpg?v=1604803078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sacks Food Co<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            8.99 - 14.99
+            <a href="https://www.meatntaters.ca/products/calamari-breaded">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Iber Cook Lightly Floured Calamari 300g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>calamari</s:tag>
+    <s:tag>deveined</s:tag>
+    <s:tag>fish</s:tag>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:tag>peeled</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>squid</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484972595</id>
+      <title>300g / Iber Cook Lightly Floured Calamari</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644484972595</id>
+      <title>2lbs / Breaded Calamari</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>sea069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720138584115</id>
+    <published>2020-11-06T12:24:34-05:00</published>
+    <updated>2020-11-06T12:24:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/bone-in-lamb-legs-4-4lbs"/>
+    <title>Bone-In Lamb Legs</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/00290400000001.jpg?v=1611067804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New Zealand Legs Bone-In (Halal)</p>
+<p>4-5lbs Avg Piece</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lamb</s:tag>
+    <s:tag>legs</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720138584115</id>
+      <title>4-5lbs</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>38601</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4509955850291</id>
+    <published>2020-11-06T12:23:04-05:00</published>
+    <updated>2020-11-06T12:23:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/australian-lamb-legs-boneless-gluten-free"/>
+    <title>Boneless Lamb Legs</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/fresh-boneless-lamb-leg.jpg?v=1611067762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Australian Lamb Legs Boneless - Gluten Free <span data-mce-fragment="1">(Halal)</span></p>
+<p>4-5lbs Avg Piece</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boneless</s:tag>
+    <s:tag>Lamb</s:tag>
+    <s:tag>legs</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509955850291</id>
+      <title>4-5lbs avg</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>13466</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720135897139</id>
+    <published>2020-11-06T12:11:11-05:00</published>
+    <updated>2020-11-06T12:11:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/lean-ground-lamb-2lbs"/>
+    <title>Ground Lamb</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/NEW-ZEALAND-GROUND-LEAN-SPRING-LAMB.jpg?v=1611067775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ground Lamb (500g) - (Gluten Free &amp; Frozen) (Halal)
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>ground</s:tag>
+    <s:tag>lamb</s:tag>
+    <s:tag>lean</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720135897139</id>
+      <title>500g</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>MEA123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527762407475</id>
+    <published>2020-05-12T10:20:13-04:00</published>
+    <updated>2020-05-12T10:20:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/atlantic-salmon-fillet"/>
+    <title>Skin-On Salmon</title>
+    <s:type>Value</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/imageService_a535f9f0-5e23-4b59-8525-38cf33d6b711.jpg?v=1604525866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Atlantic Skin-On Salmon Full Case (3-5lbs)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:tag>salmon</s:tag>
+    <s:tag>Seafood</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527762407475</id>
+      <title>3-5lbs</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>51710</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527765323827</id>
+    <published>2020-05-02T11:39:30-04:00</published>
+    <updated>2020-05-02T11:39:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/turkey"/>
+    <title>Sliced Turkey</title>
+    <s:type>Deli</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Sliced_Meat_Turkey.jpg?v=1588641534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Deli<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Turkey Sliced - 300 Gm Pkgs - 2 Pkgs Per Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deli</s:tag>
+    <s:tag>Sliced Meat</s:tag>
+    <s:tag>Turkey</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527765323827</id>
+      <title>Sliced / 300g x 2</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>91636</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4512273793075</id>
+    <published>2020-04-25T10:30:55-04:00</published>
+    <updated>2020-04-25T10:30:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/wild-pacific-salmon-fillets"/>
+    <title>Northern Salmon (Frozen)</title>
+    <s:type>Value</s:type>
+    <s:vendor>Sacks Food Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/New-dawn-for-gas-to-feed-protein-as-Calysta-flags-up-2017-production-start-date.jpg?v=1606406073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sacks Food Co<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            11.49 - 44.99
+            <a href="https://www.meatntaters.ca/products/wild-pacific-salmon-fillets">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>7/8 Piece (2oz) or 3-4lb pc or 5oz x16 box (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish &amp; Seafood</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>others</s:tag>
+    <s:tag>salmon</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4512273793075</id>
+      <title>2oz x 7/8 / Frozen</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>Sacks Food Co</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4512273793075</id>
+      <title>3-4lbs / Frozen</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>a1-sea087</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4512273793075</id>
+      <title>5oz x 16 / Frozen</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>a1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4509955653683</id>
+    <published>2020-04-23T14:09:13-04:00</published>
+    <updated>2020-04-23T14:09:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/ontario-lamb-spiducci-gluten-free"/>
+    <title>Lamb Spiducci</title>
+    <s:type>Value</s:type>
+    <s:vendor>Costco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/0000167638-1024x1024.jpg?v=1590543072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Costco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            64.99 - 99.99
+            <a href="https://www.meatntaters.ca/products/ontario-lamb-spiducci-gluten-free">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ontario Lamb Spiducci - Gluten Free (Frozen) (Halal)</p>
+<p>50 x 20g / Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>halal</s:tag>
+    <s:tag>Kabob</s:tag>
+    <s:tag>Kabobs</s:tag>
+    <s:tag>Lamb</s:tag>
+    <s:tag>Spiducci</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509955653683</id>
+      <title>20g x 50</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>2061558</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509955653683</id>
+      <title>20g x 100</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku>2061558</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4509955260467</id>
+    <published>2020-04-23T14:09:03-04:00</published>
+    <updated>2020-04-23T14:09:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/lean-ground-turkey-gluten-free"/>
+    <title>Lean Ground Turkey</title>
+    <s:type>Value</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/large_eee68ed4-bb9b-49a3-9f26-81d5e4776b6f.jpg?v=1590523950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lean Ground Turkey (10lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>ground</s:tag>
+    <s:tag>lean</s:tag>
+    <s:tag>Turkey</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4509955260467</id>
+      <title>10lbs</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>93064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

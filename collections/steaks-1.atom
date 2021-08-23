@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.meatntaters.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.meatntaters.ca/collections/steaks-1.atom"/>
+  <title>Meat n&apos; Taters Delivery</title>
+  <updated>2021-08-17T16:31:20-04:00</updated>
+  <author>
+    <name>Meat n&apos; Taters Delivery</name>
+  </author>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644472455219</id>
+    <published>2021-08-17T16:31:20-04:00</published>
+    <updated>2021-08-17T16:31:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/porterhouse-steak-b-s"/>
+    <title>AAA Porterhouse Steak</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Bellwether-x-The-Butcher-Shoppe-Products-2-5_500x-removebg-preview-min.jpg?v=1597168598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            28.99 - 239.99
+            <a href="https://www.meatntaters.ca/products/porterhouse-steak-b-s">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img width="15px" height="15px" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"><span> </span>Aged 30 days </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" height="15px" width="15px" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> Hand Cut To Order </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="color: #c3d9ad;" data-mce-style="color: #c3d9ad;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" height="15px" width="15px" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"></span><span style="color: #ffffff;" data-mce-style="color: #ffffff;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> </span></span></span><span style="background-color: #000000;" data-mce-style="background-color: #000000;">100% AAA Grade Beef </span></strong></span></em></p>
+<p>AAA Porterhouse Steaks</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AAA</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>porterhouse</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>t-bone</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644472455219</id>
+      <title>16 oz</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>007582</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644472455219</id>
+      <title>5 x 16 oz</title>
+      <s:price currency="CAD">124.99</s:price>
+      <s:sku>007582</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644472455219</id>
+      <title>10 x 16 oz</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>007582</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6593900281907</id>
+    <published>2021-08-17T15:38:28-04:00</published>
+    <updated>2021-08-17T15:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/aged-aaa-grass-fed-striploin-steaks-box"/>
+    <title>Aged AAA Grass Fed Striploin Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/ph-striploin_e5e3fb40-6cd8-45df-8b1a-b4a0d3561a52_530x_2x-removebg-preview.png?v=1629229174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            139.99 - 249.99
+            <a href="https://www.meatntaters.ca/products/aged-aaa-grass-fed-striploin-steaks-box">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" height="15px" width="15px"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> Aged 30 days </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img width="15px" height="15px" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> Hand Cut To Order </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="color: #c3d9ad;" data-mce-style="color: #c3d9ad;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img width="15px" height="15px" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"></span><span style="color: #ffffff;" data-mce-style="color: #ffffff;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> </span></span></span><span style="background-color: #000000;" data-mce-style="background-color: #000000;">100% AAA Grade Beef </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #000000;" data-mce-style="background-color: #000000;"><span style="color: #c3d9ad;" data-mce-style="color: #c3d9ad;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" height="15px" width="15px" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"></span><span style="color: #ffffff;" data-mce-style="color: #ffffff;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"> </span> </span></span>100% Grass Fed Beef </span></strong></span></em></p>
+<p><span data-mce-fragment="1">Aged AAA Grass Fed Striploin Steaks 8oz Center Cut - 10 Pcs/Box (Fresh)</span><br><span data-mce-fragment="1">Aged AAA Grass Fed Striploin Steaks 8oz Center Cut - 20 Pcs/Box (Fresh)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AAA</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>fed</s:tag>
+    <s:tag>grass</s:tag>
+    <s:tag>Grass Fed</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>striploin</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6593900281907</id>
+      <title>Canada AAA (Fresh) (C/C) / 8oz x 10</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku>4345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6593900281907</id>
+      <title>Canada AAA (Fresh) (C/C) / 8oz x 20</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku>4345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4595387301939</id>
+    <published>2021-07-09T17:00:12-04:00</published>
+    <updated>2021-07-09T17:00:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/aaa-striploin-tissue-end"/>
+    <title>AA/AAA Bistro Steaks</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/carcass-strip-loin-steak.jpg?v=1593551567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>AA/AAA 10oz New York Bistro Steaks<br><span></span>Buy it as a Four Piece or Box.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AAA</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>Special</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>striploin</s:tag>
+    <s:tag>USDA</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4595387301939</id>
+      <title>New York / 8 x 10oz / Bistro Steak</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>WAGJAG</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6577082236979</id>
+    <published>2021-06-29T12:21:59-04:00</published>
+    <updated>2021-06-29T12:21:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/a5-japanese-wagyu-ribeye-steak"/>
+    <title>A5 Japanese Wagyu Ribeye Steak</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/1548045095565-removebg-preview_99c150a2-caef-4028-84ba-484e45c0d9ee.png?v=1624983720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            114.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A5 Japanese Wagyu Striploin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef</s:tag>
+    <s:tag>japanese</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>striploin</s:tag>
+    <s:tag>wagyu</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6577082236979</id>
+      <title>16 oz</title>
+      <s:price currency="CAD">114.99</s:price>
+      <s:sku>1494267</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/6577078763571</id>
+    <published>2021-06-29T11:48:27-04:00</published>
+    <updated>2021-06-29T11:48:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/tenderloin-tips"/>
+    <title>Tenderloin Tips</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/ZBEEWAG048-1-R-Wagyu-Tips-removebg-preview.png?v=1624981740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tenderloin Tips (10lbs)<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>filet</s:tag>
+    <s:tag>minon</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>tenderloin</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/6577078763571</id>
+      <title>Tips / 10lbs / Tenderloin Medallion Steak</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>2225</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4598339272755</id>
+    <published>2021-06-29T10:04:32-04:00</published>
+    <updated>2021-06-29T10:04:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/aaa-t-bone-steaks"/>
+    <title>AAA T-Bone Steaks</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Beef_T_Bone_Steak-removebg-preview.png?v=1593718394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/canadianAAA.png?v=1591644995">  <br>16oz AAA T-Bone Steak (Box of 8)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AAA</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>t-bone</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4598339272755</id>
+      <title>AAA / 5 Piece x 16oz / T-Bone Steak</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>Butcher Shoppe</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4505845792819</id>
+    <published>2020-11-25T21:05:24-05:00</published>
+    <updated>2020-11-25T21:05:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/bone-in-rib-steaks"/>
+    <title>Aged AAA Rib Steaks</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Beef-Ribeye-Bone-In-6463-removebg-preview.jpg?v=1607054854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" height="15px" width="15px"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> Aged 30 days </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img width="15px" height="15px" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> Hand Cut To Order </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="color: #c3d9ad;" data-mce-style="color: #c3d9ad;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img width="15px" height="15px" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"></span><span style="color: #ffffff;" data-mce-style="color: #ffffff;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> </span></span></span><span style="background-color: #000000;" data-mce-style="background-color: #000000;">100% AAA Grade</span></strong></span></em></span></p>
+<p><span>Just like its boneless brother - the ribeye - Rib steaks are juicy and well-marbled, with exceptional taste and tenderness and a delicious bone that adds additional flavor. Usually, a thicker cut due to the bone, this steak dominates is best when reverse-seared using an oven and skillet/BBQ. </span><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>Canada Prime</s:tag>
+    <s:tag>Canadian Prime</s:tag>
+    <s:tag>Prime</s:tag>
+    <s:tag>rib steak</s:tag>
+    <s:tag>rib steaks</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>usda</s:tag>
+    <s:tag>usda prime</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4505845792819</id>
+      <title>AAA / 16oz x 8 / Bone-in</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4646712082483</id>
+    <published>2020-11-25T20:31:34-05:00</published>
+    <updated>2020-11-25T20:31:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/flat-iron-steaks-box-of-20"/>
+    <title>AAA Top Sirloin Baseball Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>Sysco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Beef_Top_Sirloin_Steak_Baseball_Cut_cfe91a5b-ba4c-4c6d-b60b-7d366a80e489.jpg?v=1607054799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sysco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>AAA Top Sirloin Baseball Steaks 8oz <br>20 Pieces / Box (Gluten Free &amp; Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>flat</s:tag>
+    <s:tag>sirloin</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4646712082483</id>
+      <title>8oz (Box of 20) / Fresh</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku>halendes</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4646712082483</id>
+      <title>8oz (Box of 20) / Frozen</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku>1903350</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4719947382835</id>
+    <published>2020-11-18T12:10:08-05:00</published>
+    <updated>2020-11-18T12:10:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/aaa-sirloin-steaks-8oz-box-of-24"/>
+    <title>Flat Iron Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>Erie Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/FlatIronSteak_5aaf3ce2-9240-4cdc-b9ff-36e00ae245b6.jpg?v=1604607677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Erie Meats<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flat Iron Steaks 4oz, 5oz and 8oz<br>12, 20 and 24 Pieces / Box (Gluten Free &amp; Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>flat</s:tag>
+    <s:tag>flat iron</s:tag>
+    <s:tag>sirloin</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4719947382835</id>
+      <title>4oz x 24</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>92092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4719947382835</id>
+      <title>5oz x 20</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>92091</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4719947382835</id>
+      <title>8oz x 12</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>92090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4505835536435</id>
+    <published>2020-11-17T17:35:43-05:00</published>
+    <updated>2020-11-17T17:35:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/beef-tenderloin-medallions"/>
+    <title>Bacon Wrapped Beef Tenderloin Med</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Sysco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Beef_Tenderloin_Bacon_Wrapped.jpg?v=1607360289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sysco<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            189.99 - 249.99
+            <a href="https://www.meatntaters.ca/products/beef-tenderloin-medallions">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bacon-wrapped or just as they are, these Canadian Tenderloin medallions are the most tender cut of steaks - lean yet succulent and with a fine buttery texture, Tenderloin medallions are great for Grilling or BBQ, stove/oven skillet sear and reverse-sear, oven-broiling and Sous Vide cooking. (Frozen) (Box of 24)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AAA</s:tag>
+    <s:tag>Bacon</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>Canada Prime</s:tag>
+    <s:tag>Canadian Prime</s:tag>
+    <s:tag>Prime</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>tenderloin</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4505835536435</id>
+      <title>Tenderloin / 6oz x 24 / Bacon-wrapped</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku>7992779</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4505835536435</id>
+      <title>Tenderloin / 3oz x 60 / Regular</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku>8545097</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527761063987</id>
+    <published>2020-11-17T13:54:37-05:00</published>
+    <updated>2020-11-17T13:54:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/hanger-steaks"/>
+    <title>Aged AAA Hanger Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>Off The Bone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Beef_Hanger_Steak.jpg?v=1588620429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Off The Bone<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            69.99 - 129.99
+            <a href="https://www.meatntaters.ca/products/hanger-steaks">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" height="15px" width="15px"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"><span> </span>Aged 30 days </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img width="15px" height="15px" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> Hand Cut To Order </span></strong></span></em><br><em><span style="color: #89c74a;" data-mce-style="color: #89c74a;"><strong><span style="color: #c3d9ad;" data-mce-style="color: #c3d9ad;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"><img width="15px" height="15px" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826" data-mce-src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/check.png?v=1629203826"></span><span style="color: #ffffff;" data-mce-style="color: #ffffff;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;"> </span><span style="background-color: #000000;" data-mce-style="background-color: #000000;"> </span></span></span><span style="background-color: #000000;" data-mce-style="background-color: #000000;">100% AAA Grade Beef </span></strong></span></em></p>
+<p>Ontario AAA Hanger Steaks (5 or 10lbs)<br>5-7 or 10-14 Pieces Total / Box (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AAA</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>hanger</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527761063987</id>
+      <title>AAA / 2lb x 3</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527761063987</id>
+      <title>AAA / 2lbs x 6</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644472029235</id>
+    <published>2020-11-16T15:14:20-05:00</published>
+    <updated>2020-11-16T15:14:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/australian-wagyu-skirt-steak-b-s"/>
+    <title>Australian Wagyu Skirt Steak</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Bellwether-x-The-Butcher-Shoppe-Products-R1-51_500x-removebg-preview-min.jpg?v=1597168395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            36.99 - 41.99
+            <a href="https://www.meatntaters.ca/products/australian-wagyu-skirt-steak-b-s">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Australian Wagyu Skirt Steaks</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Australian</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>skirt</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>wagyu</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644472029235</id>
+      <title>14 oz</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>010083</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644472029235</id>
+      <title>16 oz</title>
+      <s:price currency="CAD">41.99</s:price>
+      <s:sku>010083</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4722478940211</id>
+    <published>2020-11-16T13:57:56-05:00</published>
+    <updated>2020-11-16T13:57:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/canadian-prime-tenderloin-med-8oz-box-of-10"/>
+    <title>Canadian Prime Tenderloin Med</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Off The Bone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/0000946_usda-prime-aged-bone-in-filet-mignon_882-removebg-preview.png?v=1607054770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Off The Bone<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            219.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Canadian Prime Tenderloin Med 8oz (Box of 10)<br><span></span>Buy it as a single Piece or Box.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>Canada Prime</s:tag>
+    <s:tag>Canadian Prime</s:tag>
+    <s:tag>filet</s:tag>
+    <s:tag>minon</s:tag>
+    <s:tag>Prime</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>tenderloin</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4722478940211</id>
+      <title>Canadian Prime / 8oz x 10 / Tenderloin Medallion Steak</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4722478317619</id>
+    <published>2020-11-16T13:54:11-05:00</published>
+    <updated>2020-11-16T13:54:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/angus-tenderloin-med-8oz-box-of-10"/>
+    <title>Angus Tenderloin Med</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Off The Bone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/filet_migon-removebg-preview.png?v=1607054788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Off The Bone<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            174.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Angus Tenderloin Med 8oz (Box of 10)<br><span></span>Buy it as a single Piece or Box.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>angus</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>filet</s:tag>
+    <s:tag>minon</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>tenderloin</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4722478317619</id>
+      <title>Angus / 8oz x 10 / Tenderloin Medallion Steak</title>
+      <s:price currency="CAD">174.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4722476384307</id>
+    <published>2020-11-16T13:34:04-05:00</published>
+    <updated>2020-11-16T13:34:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/canadian-prime-ribeyes-10oz-box-of-16"/>
+    <title>Canadian Prime Ribeyes</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Off The Bone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Prime_Ribeye_SU17_16-e97cc43670da6df99e25cb3bb4130fc7-removebg-preview_1389ae40-2891-4378-89eb-683d6c64824b.jpg?v=1605551647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Off The Bone<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            279.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/canadianprime.png?v=1591644995">  <br>10oz Ribeye Steak (Fresh) (Box of 16)<br><span></span></p>
+<p><span>Rich, juicy and full-flavoured with generous marbling throughout, a ribeye delivers exceptional taste and tenderness. This steak is always impressive on a plate and is great when grilled or on the BBQ, it is equally delicious when seared/reverse-seared using oven and skillet/BBQ or slow-cooked in a meat smoker. (Gluten Free)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>Prime</s:tag>
+    <s:tag>rib steaks</s:tag>
+    <s:tag>ribeye</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>USDA</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4722476384307</id>
+      <title>Canadian Prime Ribeye / 10oz x 16 / Fresh</title>
+      <s:price currency="CAD">279.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4715122065459</id>
+    <published>2020-11-16T13:32:27-05:00</published>
+    <updated>2020-11-16T13:32:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/angus-ribeyes-box-of-8-12-16"/>
+    <title>Angus Ribeyes</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Off The Bone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/beef-steak-ribeye-thumb_e73a3e5c-dce8-452d-8e22-ffd8af174fc8.jpg?v=1607054918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Off The Bone<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            249.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Angus Ribeye Steaks 10oz</span><br data-mce-fragment="1"><span data-mce-fragment="1">16 pieces/Box (GF) </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>angus</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>rib steaks</s:tag>
+    <s:tag>ribeye</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4715122065459</id>
+      <title>Angus Ribeye / 10oz x 16 / 1 1/2&quot; Steak</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4722475237427</id>
+    <published>2020-11-16T13:23:33-05:00</published>
+    <updated>2020-11-16T13:23:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/prime-striploin-steaks-8oz-box-of-20"/>
+    <title>Prime Striploin Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>Off The Bone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/USDA-Prime-Striploin-600x600-600x600-removebg-preview.png?v=1607054756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Off The Bone<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            269.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8oz Prime Striploin Steaks Center Cut (Fresh)<br><span>Box of 20</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>prime</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>striploin</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4722475237427</id>
+      <title>Canada Prime (Fresh) / 8oz x 20</title>
+      <s:price currency="CAD">269.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4722472484915</id>
+    <published>2020-11-16T13:06:32-05:00</published>
+    <updated>2020-11-16T13:06:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/angus-striploin-steaks-8oz-box-of-20"/>
+    <title>Angus Striploin Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>Off The Bone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Anova-Steak-Guide-Sous-Vide-Photos03-ny-strip_1500x-removebg-preview.png?v=1607054812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Off The Bone<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            209.99 - 239.99
+            <a href="https://www.meatntaters.ca/products/angus-striploin-steaks-8oz-box-of-20">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8oz Angus Striploin Steaks Center Cut (Fresh)<br><span>Box of 20</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>angus</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>striploin</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4722472484915</id>
+      <title>Canada Angus (Fresh) / 8oz x 20</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4722472484915</id>
+      <title>Canada Angus (Frozen) / 10oz x 20</title>
+      <s:price currency="CAD">209.99</s:price>
+      <s:sku>sysco home</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4721561731123</id>
+    <published>2020-11-12T09:16:08-05:00</published>
+    <updated>2020-11-12T09:16:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/aaa-tenderloin-med-8oz-box-of-10"/>
+    <title>AAA Tenderloin</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Beef_Top_Sirloin_Steak_Baseball_Cut_3fcf819e-7774-4764-85dc-3ddfcad97894.jpg?v=1607054801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/canadianAAA.png?v=1591644995">  <br>4oz AAA Tenderloin  (Box of 16)</p>
+<ul>
+<li>4oz AAA Canadian tenderloin steaks</li>
+<li>16 pieces per box</li>
+<li>Natural locally sourced beef</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AAA</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>filet</s:tag>
+    <s:tag>minon</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>tenderloin</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4721561731123</id>
+      <title>AAA / 4oz x 16 / Tenderloin Medallion Steak</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku>6996</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4721371906099</id>
+    <published>2020-11-11T12:08:55-05:00</published>
+    <updated>2020-11-11T12:08:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/aaa-ribeye-steaks-10oz-16-per-box"/>
+    <title>AAA Ribeye Steaks</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Halendas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/USDA-Prime-Ribeye-600x600-removebg-preview_276559ca-5f27-4dbb-bf2e-aa4a7f3ec395.png?v=1607054766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halendas<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            124.99 - 239.99
+            <a href="https://www.meatntaters.ca/products/aaa-ribeye-steaks-10oz-16-per-box">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">AAA Ribeye Steaks 10oz<br>8 or 16 pieces/Box (GF) <br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>ribeye</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4721371906099</id>
+      <title>AAA / 10oz x 8 / Fresh</title>
+      <s:price currency="CAD">124.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4721371906099</id>
+      <title>AAA / 10oz x 16 / Fresh</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4527760998451</id>
+    <published>2020-11-10T15:11:42-05:00</published>
+    <updated>2020-11-10T15:11:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/striploin-steaks"/>
+    <title>AAA Flank Steak</title>
+    <s:type>Value</s:type>
+    <s:vendor>Costco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/5e83f13a747716bbe1f4f2d6_Flank_20Steak_20AAA_20_1_20portion_1024x_141156ad-4e25-43c3-8e01-a39cd17a1e14.jpg?v=1605039090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Costco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            124.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0260/9584/5427/files/canadianAAA.png?v=1591644995"><br>AAA Flank Steak 28oz each (Box of 5) (Halal)<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AAA</s:tag>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>flank</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4527760998451</id>
+      <title>Canada AAA / 28oz x 5</title>
+      <s:price currency="CAD">124.99</s:price>
+      <s:sku>33416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720957095987</id>
+    <published>2020-11-09T19:49:16-05:00</published>
+    <updated>2020-11-09T19:49:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/wagyu-striploin-steak-box-of-8"/>
+    <title>Australian Wagyu Striploin Steak</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/A5_180_10oz_Steaks_3_800x-removebg-preview.png?v=1607054863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            239.99 - 399.99
+            <a href="https://www.meatntaters.ca/products/wagyu-striploin-steak-box-of-8">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wagyu Striploin Steak (Box of 8) 12oz pieces </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef</s:tag>
+    <s:tag>japanese</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>striploin</s:tag>
+    <s:tag>wagyu</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720957095987</id>
+      <title>12oz x 4</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>4148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720957095987</id>
+      <title>12oz x 8</title>
+      <s:price currency="CAD">399.99</s:price>
+      <s:sku>4148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720751181875</id>
+    <published>2020-11-09T10:08:29-05:00</published>
+    <updated>2020-11-09T10:08:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/wagyu-striploin-steak-box-of-9"/>
+    <title>A5 Japanese Wagyu Striploin Steak</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/1548045095565-removebg-preview.png?v=1607054903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            114.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A5 Japanese Wagyu Striploin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef</s:tag>
+    <s:tag>japanese</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>striploin</s:tag>
+    <s:tag>wagyu</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720751181875</id>
+      <title>16 oz</title>
+      <s:price currency="CAD">114.99</s:price>
+      <s:sku>1494267</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4644471963699</id>
+    <published>2020-11-09T09:59:42-05:00</published>
+    <updated>2020-11-09T09:59:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/australian-wagyu-ribeye-steak-b-s"/>
+    <title>Australian Wagyu Ribeye Steak</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Butcher Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Bellwether-x-The-Butcher-Shoppe-Products-2-25_500x-removebg-preview-min.jpg?v=1607054091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butcher Shop<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            299.99 - 549.99
+            <a href="https://www.meatntaters.ca/products/australian-wagyu-ribeye-steak-b-s">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Australian Wagyu Ribeye Steak</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>australian</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>ribeye</s:tag>
+    <s:tag>steak</s:tag>
+    <s:tag>steaks</s:tag>
+    <s:tag>wagyu</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644471963699</id>
+      <title>12oz x 5</title>
+      <s:price currency="CAD">299.99</s:price>
+      <s:sku>7785</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4644471963699</id>
+      <title>12oz x 10</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>7785</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4720748724275</id>
+    <published>2020-11-09T09:54:02-05:00</published>
+    <updated>2020-11-09T09:54:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/venison-ribeye-steaks-box-of-16"/>
+    <title>Venison Ribeye Steaks</title>
+    <s:type>Value</s:type>
+    <s:vendor>Costco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/ribeyes-800x500-removebg-preview.png?v=1604933670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Costco<br>
+        <strong>Type: </strong>Value<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Venison Ribeye Steaks (Box of 16)<br>High in protein, iron and B vitamins <br>No antibiotics, growth stimulants, hormones or steroids</p>
+<p><strong>***</strong><span>This Item is Imported might take 4-6 Days to bring In.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>Boar</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>ribeye</s:tag>
+    <s:tag>ribeyes</s:tag>
+    <s:tag>Wild Boar</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4720748724275</id>
+      <title>4oz x 16</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>1254519</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

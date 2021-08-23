@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.meatntaters.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.meatntaters.ca/collections/vegetable.atom"/>
+  <title>Meat n&apos; Taters Delivery</title>
+  <updated>2021-01-26T15:14:47-05:00</updated>
+  <author>
+    <name>Meat n&apos; Taters Delivery</name>
+  </author>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577324924979</id>
+    <published>2021-01-26T15:14:47-05:00</published>
+    <updated>2021-01-26T15:14:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/large-mushrooms"/>
+    <title>Portabello Mushroom</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/931b7242-3f4e-4e12-aff8-5ac5a2465f93.jpg?v=1592594826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            5.99 - 25.99
+            <a href="https://www.meatntaters.ca/products/large-mushrooms">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Portabello by Lb or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Large Mushrooms</s:tag>
+    <s:tag>mushroom</s:tag>
+    <s:tag>Mushrooms</s:tag>
+    <s:tag>Portabello</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577324924979</id>
+      <title>Portabello Mushrooms / 340g</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>202309</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577324924979</id>
+      <title>Portabello Mushrooms Box / 5 Lb</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>202309</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577187168307</id>
+    <published>2021-01-13T15:03:33-05:00</published>
+    <updated>2021-01-13T15:03:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/shredded-iceberg"/>
+    <title>Shredded Iceberg</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Shredded-Iceberg_3205ac86-cd57-46b4-8de0-db092f7e6aa7.png?v=1597862283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shredded Iceberg Lettuce 2.27 Kg</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>BBQ Produce</s:tag>
+    <s:tag>Iceberg Lettuce</s:tag>
+    <s:tag>Leaf Vegetables</s:tag>
+    <s:tag>Lettuce</s:tag>
+    <s:tag>shredded</s:tag>
+    <s:tag>Shredded Iceberg</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577187168307</id>
+      <title>Shredded Iceberg Lettuce / 5 Lbs</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>707420</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577125335091</id>
+    <published>2021-01-13T15:01:41-05:00</published>
+    <updated>2021-01-13T15:01:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/red-cabbage"/>
+    <title>Red Cabbage</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/41vp-Yb0KAL._SX466.jpg?v=1592680947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            3.49 - 54.99
+            <a href="https://www.meatntaters.ca/products/red-cabbage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Cabbage by Piece or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cabbage</s:tag>
+    <s:tag>Leaf Vegetables</s:tag>
+    <s:tag>Red Cabbage</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577125335091</id>
+      <title>Red Cabbage / 1 Pc</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>202208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577125335091</id>
+      <title>Red Cabbage / 12 Piece Box</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>202208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577096433715</id>
+    <published>2021-01-13T14:58:36-05:00</published>
+    <updated>2021-01-13T14:58:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/eggplant"/>
+    <title>Eggplant</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/eggplant-1.jpg?v=1592591071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            6.49 - 45.99
+            <a href="https://www.meatntaters.ca/products/eggplant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ontario Eggplant by piece or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eggplant</s:tag>
+    <s:tag>Eggplants</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577096433715</id>
+      <title>Eggplant / 5 Lbs</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>202153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577096433715</id>
+      <title>Eggplant / 18 Pieces Box</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku>202153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577116422195</id>
+    <published>2021-01-13T14:57:28-05:00</published>
+    <updated>2021-01-13T14:57:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/green-zucchini"/>
+    <title>Green Zucchini</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/SummerSquash-460x270.jpg?v=1592593031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            5.49 - 49.99
+            <a href="https://www.meatntaters.ca/products/green-zucchini">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green Zucchini by piece or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Zucchini</s:tag>
+    <s:tag>Mini/Root Vegetables</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:tag>Zucchini</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577116422195</id>
+      <title>Green Zucchini / 5 Lb</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>202190</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577116422195</id>
+      <title>Green Zucchini / 15 Lb Box</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>202190</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577116422195</id>
+      <title>Green Zucchini / 35 Lb (Large) Box</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>202191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4737982529587</id>
+    <published>2021-01-13T14:52:28-05:00</published>
+    <updated>2021-01-13T14:52:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/baby-carrot-fresh"/>
+    <title>Baby Carrot (Fresh)</title>
+    <s:type>Grocery</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Vegetables_Carrots_Baby_Peeled_8756ebda-e8a6-4a31-afc1-d5e37fdf4297.jpg?v=1610567552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Grocery<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sliced Carrot (Frozen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>commercial veg</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>veg</s:tag>
+    <s:tag>vegetable</s:tag>
+    <s:tag>vegetables</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4737982529587</id>
+      <title>1 Lb / Baby Carrot</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>fro195</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577332887603</id>
+    <published>2021-01-13T12:31:56-05:00</published>
+    <updated>2021-01-13T12:31:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/green-onions"/>
+    <title>Green Onions</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/GREEN-ONIONS.jpg?v=1592592887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            8.99 - 41.89
+            <a href="https://www.meatntaters.ca/products/green-onions">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green Onions by the Bunch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>BBQ Produce</s:tag>
+    <s:tag>Green Onions</s:tag>
+    <s:tag>Onion</s:tag>
+    <s:tag>Onions</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577332887603</id>
+      <title>Green Onions / 12 Bunch</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>202406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577332887603</id>
+      <title>Green Onions / 48 x 1 Bunch (4oz) Box</title>
+      <s:price currency="CAD">41.89</s:price>
+      <s:sku>202406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577385971763</id>
+    <published>2021-01-13T12:28:32-05:00</published>
+    <updated>2021-01-13T12:28:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/red-cherry-tomatoes"/>
+    <title>Red Cherry Tomatoes</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Vegetables_Tomatoes_Red_Cherry_f4ff0392-88b8-42bf-9e68-6198bea62384.jpg?v=1592680972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            4.99 - 41.90
+            <a href="https://www.meatntaters.ca/products/red-cherry-tomatoes">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Cherry Tomatoes by the Pint and Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>BBQ Produce</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>Cherry Tomatoes</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Red Cherry Tomatoes</s:tag>
+    <s:tag>Tomato</s:tag>
+    <s:tag>Tomatoes</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577385971763</id>
+      <title>Red Cherry Tomatoes / 1 Pint</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>202932</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577385971763</id>
+      <title>Red Cherry Tomatoes / 8 x 1 Pint Box</title>
+      <s:price currency="CAD">41.90</s:price>
+      <s:sku>202932</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577093681203</id>
+    <published>2021-01-13T12:27:12-05:00</published>
+    <updated>2021-01-13T12:27:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/english-cucumber"/>
+    <title>English Cucumber</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/long-english-cucumber.jpg?v=1592591171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            5.99 - 22.19
+            <a href="https://www.meatntaters.ca/products/english-cucumber">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>English Cucumber by Piece or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cucumber</s:tag>
+    <s:tag>Cucumbers</s:tag>
+    <s:tag>English Cucumber</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577093681203</id>
+      <title>English Cucumber / 3 Piece (Large)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>202151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577093681203</id>
+      <title>English Cucumber / 12 Pieces (Medium) Box</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>202148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577093681203</id>
+      <title>English Cucumber / 12 Pieces (X-Large) Box</title>
+      <s:price currency="CAD">22.19</s:price>
+      <s:sku>202151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577093681203</id>
+      <title>English Cucumber / 5 Lbs</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>202151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577091780659</id>
+    <published>2021-01-13T12:23:45-05:00</published>
+    <updated>2021-01-13T12:23:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/celery-1"/>
+    <title>Celery</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/0003338365321.jpg?v=1592583019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            8.99 - 66.89
+            <a href="https://www.meatntaters.ca/products/celery-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celery by the bunch or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Celery</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577091780659</id>
+      <title>Celery / 3 pcs</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>202141</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577091780659</id>
+      <title>Celery Box / 24 Pieces / 21 Kg</title>
+      <s:price currency="CAD">66.89</s:price>
+      <s:sku>202141</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577123827763</id>
+    <published>2021-01-13T12:18:06-05:00</published>
+    <updated>2021-01-13T12:18:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/green-cabbage"/>
+    <title>Green Cabbage</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/0000000094069.jpg?v=1592592785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            3.29 - 46.89
+            <a href="https://www.meatntaters.ca/products/green-cabbage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green Cabbage by Piece or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cabbage</s:tag>
+    <s:tag>Green Cabbage</s:tag>
+    <s:tag>Leaf Vegetables</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577123827763</id>
+      <title>Green Cabbage / 1 Piece</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>202204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577123827763</id>
+      <title>Green Cabbage / 12 Piece Box</title>
+      <s:price currency="CAD">46.89</s:price>
+      <s:sku>202204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4583328088115</id>
+    <published>2021-01-13T12:12:31-05:00</published>
+    <updated>2021-01-13T12:12:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/sweet-white-onions"/>
+    <title>White Onions</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/commodity-white-onion.jpg?v=1592844400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            2.49 - 24.99
+            <a href="https://www.meatntaters.ca/products/sweet-white-onions">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Onions by the Lb or Bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>BBQ Produce</s:tag>
+    <s:tag>Onion</s:tag>
+    <s:tag>Onions</s:tag>
+    <s:tag>sweet</s:tag>
+    <s:tag>Sweet White Onions</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4583328088115</id>
+      <title>White Onions / 50lbs</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4583328088115</id>
+      <title>White Onions / 2 Lb</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>202420</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4583328088115</id>
+      <title>White Onions / 10 Lbs</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>202420</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577331511347</id>
+    <published>2021-01-13T12:11:24-05:00</published>
+    <updated>2021-01-13T12:11:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/red-onions"/>
+    <title>Red Onions</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/59559699012.jpg?v=1592681045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            3.49 - 7.99
+            <a href="https://www.meatntaters.ca/products/red-onions">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large Red Onions by the Lb or Bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>BBQ Produce</s:tag>
+    <s:tag>Onion</s:tag>
+    <s:tag>Onions</s:tag>
+    <s:tag>Red Onions</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577331511347</id>
+      <title>Red Onions / 3 Lb</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>202411</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577331511347</id>
+      <title>Red Onions / 10 Lbs</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>202411</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577163575347</id>
+    <published>2021-01-13T12:07:42-05:00</published>
+    <updated>2021-01-13T12:07:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/chopped-iceberg"/>
+    <title>Green Leaf Lettuce</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/20133884001_lrg_1__1x_d108c090-95e5-450f-817e-cec1ffdbb306.jpg?v=1592592837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            5.99 - 54.39
+            <a href="https://www.meatntaters.ca/products/chopped-iceberg">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green Leaf Lettuce by the bunch or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>BBQ Produce</s:tag>
+    <s:tag>Green Leaf Lettuce</s:tag>
+    <s:tag>Leaf Lettuce</s:tag>
+    <s:tag>Leaf Vegetables</s:tag>
+    <s:tag>Lettuce</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577163575347</id>
+      <title>Green Leaf Lettuce / 3 Pcs</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>202250</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577163575347</id>
+      <title>Green Leaf Lettuce / 24 Piece Box</title>
+      <s:price currency="CAD">54.39</s:price>
+      <s:sku>202250</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577186349107</id>
+    <published>2021-01-13T12:03:59-05:00</published>
+    <updated>2021-01-13T12:03:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/cello-iceberg-lettuce"/>
+    <title>Cello Iceberg</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/6698092_preview.png?v=1592583291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            5.99 - 54.39
+            <a href="https://www.meatntaters.ca/products/cello-iceberg-lettuce">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cello Iceberg Lettuce by the bunch or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BBQ Essentials</s:tag>
+    <s:tag>BBQ Produce</s:tag>
+    <s:tag>Cello</s:tag>
+    <s:tag>Cello Iceberg Lettuce</s:tag>
+    <s:tag>Iceberg Lettuce</s:tag>
+    <s:tag>Leaf Vegetables</s:tag>
+    <s:tag>Lettuce</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577186349107</id>
+      <title>Cello Iceberg Lettuce / 3 Pcs</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>202246</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577186349107</id>
+      <title>Cello Iceberg Lettuce / 24 Piece Box</title>
+      <s:price currency="CAD">54.39</s:price>
+      <s:sku>202246</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577188446259</id>
+    <published>2021-01-13T12:02:17-05:00</published>
+    <updated>2021-01-13T12:02:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/radicchio-trevisano"/>
+    <title>Romaine Hearts</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Vegetables_Lettuce_Romaine_Premium_9416a31f-c430-4a15-8ee0-ed00d567047e.jpg?v=1592681105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            5.99 - 66.99
+            <a href="https://www.meatntaters.ca/products/radicchio-trevisano">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romaine Hearts Lettuce by the package or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leaf Vegetables</s:tag>
+    <s:tag>Lettuce</s:tag>
+    <s:tag>Romaine</s:tag>
+    <s:tag>Romaine Hearts</s:tag>
+    <s:tag>Romaine Hearts Lettuce</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577188446259</id>
+      <title>Romaine Hearts Lettuce / 3 Pcs</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>202049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577188446259</id>
+      <title>Romaine Hearts Lettuce / 12 x 3 Pieces / Package</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku>202049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577155579955</id>
+    <published>2021-01-13T11:44:46-05:00</published>
+    <updated>2021-01-13T11:44:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/green-kale"/>
+    <title>Green Kale</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/kale-bunch.jpg?v=1592499986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            2.79 - 48.15
+            <a href="https://www.meatntaters.ca/products/green-kale">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green Kale by the Lb or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Kale</s:tag>
+    <s:tag>Kale</s:tag>
+    <s:tag>Leaf Vegetables</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577155579955</id>
+      <title>Green Kale / 1 Bunch</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>202233</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577155579955</id>
+      <title>Green Kale / 24 Bunch Box</title>
+      <s:price currency="CAD">48.15</s:price>
+      <s:sku>202233</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577155579955</id>
+      <title>Green Kale Chopped / 2 Lb</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku>707405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577265516595</id>
+    <published>2021-01-13T11:43:51-05:00</published>
+    <updated>2021-01-13T11:43:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/spinach-bunched"/>
+    <title>Spinach Bunched</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/20162840001_lrg_1__1x_a7a8ceb8-6a00-4422-a4ef-1d26b1e537f6.jpg?v=1592683969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            7.99 - 49.39
+            <a href="https://www.meatntaters.ca/products/spinach-bunched">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spinach Bunched by the Bunch or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leaf Vegetables</s:tag>
+    <s:tag>Spinach</s:tag>
+    <s:tag>Spinach Bunched</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577265516595</id>
+      <title>Spinach Bunched / 2 Lbs</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>202270</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577265516595</id>
+      <title>Spinach Bunched / 24 Bunch Box</title>
+      <s:price currency="CAD">49.39</s:price>
+      <s:sku>202270</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577351008307</id>
+    <published>2021-01-13T11:41:45-05:00</published>
+    <updated>2021-01-13T11:41:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/carrots"/>
+    <title>Carrots</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>MNT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Carrots-medium-done_1024x1024_86b4446a-d2c0-4c11-83b8-221753506248.jpg?v=1592579742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MNT<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            4.99 - 8.99
+            <a href="https://www.meatntaters.ca/products/carrots">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carrots Medium and Large by the Bag and Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carrot</s:tag>
+    <s:tag>Carrots</s:tag>
+    <s:tag>Mini/Root Vegetables</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577351008307</id>
+      <title>Carrots / 5 Lbs</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>202718</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577351008307</id>
+      <title>Carrots / 10 Lbs</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>202716</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577311719475</id>
+    <published>2021-01-13T11:34:28-05:00</published>
+    <updated>2021-01-13T11:34:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/brown-mushrooms"/>
+    <title>Mushrooms</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/6000198449705.jpg?v=1592517277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            17.99 - 21.99
+            <a href="https://www.meatntaters.ca/products/brown-mushrooms">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White &amp; Brown Mushrooms Lb or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brown</s:tag>
+    <s:tag>Brown Mushrooms</s:tag>
+    <s:tag>mushroom</s:tag>
+    <s:tag>Mushrooms</s:tag>
+    <s:tag>Shimeji</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577311719475</id>
+      <title>White Mushrooms / 5 Lbs</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>202300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577311719475</id>
+      <title>Sliced White Mushrooms / 5 Lbs</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>202300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577311719475</id>
+      <title>Brown Mushrooms / 5 Lbs</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>202300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577311719475</id>
+      <title>Sliced Brown Mushrooms / 5 Lbs</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>202300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4576162709555</id>
+    <published>2021-01-13T11:31:46-05:00</published>
+    <updated>2021-01-13T11:31:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/green-beans"/>
+    <title>Green Beans</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/recipe-10951_Large400_ID-1493388.jpg?v=1592592695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            5.49 - 84.39
+            <a href="https://www.meatntaters.ca/products/green-beans">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green Beans by Lb and Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bean</s:tag>
+    <s:tag>beans</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:tag>Green Beans</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4576162709555</id>
+      <title>Green Beans / 2 Lb</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>202085</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4576162709555</id>
+      <title>Green Beans / 25 Lb Box</title>
+      <s:price currency="CAD">84.39</s:price>
+      <s:sku>202085</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4576162709555</id>
+      <title>Green Bean Snipped / 1 Lb</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577090961459</id>
+    <published>2021-01-13T11:24:43-05:00</published>
+    <updated>2021-01-13T11:24:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/cauliflower-1"/>
+    <title>Cauliflower</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/6000191272324.jpg?v=1592579805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            6.99 - 44.99
+            <a href="https://www.meatntaters.ca/products/cauliflower-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cauliflower by piece or by the Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cauliflower</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577090961459</id>
+      <title>Cauliflower / 1 Piece</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>202135</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577090961459</id>
+      <title>Cauliflower / 12 Pieces Box</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>202135</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577336000563</id>
+    <published>2021-01-13T11:23:49-05:00</published>
+    <updated>2021-01-13T11:23:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/orange-peppers"/>
+    <title>Orange Peppers</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Vegetables_Peppers_Orange_374e9472-069f-4098-b24f-42282bbd735b.jpg?v=1592595608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            14.99 - 48.15
+            <a href="https://www.meatntaters.ca/products/orange-peppers">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Orange Peppers by the Lb and Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Orange</s:tag>
+    <s:tag>Orange Peppers</s:tag>
+    <s:tag>Pepper</s:tag>
+    <s:tag>Peppers</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577336000563</id>
+      <title>Orange Peppers / 5 Lb</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>202528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577336000563</id>
+      <title>Orange Peppers Box / 11 Lb</title>
+      <s:price currency="CAD">48.15</s:price>
+      <s:sku>202528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577335148595</id>
+    <published>2021-01-13T11:17:02-05:00</published>
+    <updated>2021-01-13T11:17:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/green-peppers"/>
+    <title>Green Peppers (Fresh)</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Vegetables_Peppers_Green_Large_723394d2-cbcf-45c9-a353-42fd4b01e0a0.jpg?v=1592592968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            11.49 - 84.39
+            <a href="https://www.meatntaters.ca/products/green-peppers">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large Green Peppers by the Lb and Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green</s:tag>
+    <s:tag>green pepper</s:tag>
+    <s:tag>Green Peppers</s:tag>
+    <s:tag>pepper</s:tag>
+    <s:tag>Peppers</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577335148595</id>
+      <title>Green Peppers / 5 Lbs</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>202500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577335148595</id>
+      <title>Green Peppers / 22 Lb Box</title>
+      <s:price currency="CAD">84.39</s:price>
+      <s:sku>202500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.meatntaters.ca/products/4577337442355</id>
+    <published>2021-01-13T11:16:14-05:00</published>
+    <updated>2021-01-13T11:16:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.meatntaters.ca/products/yellow-peppers"/>
+    <title>Yellow Peppers</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>A1 Cash &amp; Carry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9584/5427/products/Vegetables_Peppers_Yellow_bc3e71e9-f80b-4bdf-a4c6-de0aa3f42c7f.jpg?v=1592686061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A1 Cash &amp; Carry<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            14.99 - 57.99
+            <a href="https://www.meatntaters.ca/products/yellow-peppers">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yellow Peppers by the Lb and Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pepper</s:tag>
+    <s:tag>Peppers</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Yellow Pepper</s:tag>
+    <s:tag>Yellow Peppers</s:tag>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577337442355</id>
+      <title>Yellow Peppers / 5 Lb</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>202527</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.meatntaters.ca/products/4577337442355</id>
+      <title>Yellow Peppers Box / 11 Lb</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku>202527</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
